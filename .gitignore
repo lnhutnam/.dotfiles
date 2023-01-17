@@ -54,6 +54,9 @@ Workspace
 .zshenv
 .bashrc.bak
 .pki
+.gnupg
+.ipython
+.stack
 
 # Ignore for software
 opt
@@ -92,6 +95,7 @@ alacritty.yml.bak
 dwm
 slstatus
 st
+obs-studio
 
 # Ignore for C-compile files
 *.o

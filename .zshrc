@@ -537,7 +537,10 @@ export PATH=/usr/bin:$PATH
 
 export BUNDLE_PATH=~/.gems
 
-export GUROBI_HOME="/home/lnhutnam/opt/gurobi950/linux64"
+export GUROBI_HOME="/home/lnhutnam/opt/gurobi1000/linux64"
 export GRB_LICENSE_FILE="/home/lnhutnam/gurobi.lic"
 export PATH="${PATH}:${GUROBI_HOME}/bin"
 export LD_LIBRARY_PATH="${LD_LIBRARY_PATH}:${GUROBI_HOME}/lib"
+
+# Alias for conda
+alias conpy="/home/lnhutnam/anaconda3/bin/python"
