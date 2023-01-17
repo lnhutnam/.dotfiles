@@ -1,0 +1,112 @@
+# Ignore for environment
+anaconda3
+
+# Ignore for normal folders
+Desktop
+Documents
+Downloads
+Musics
+Pictures
+Templates
+Video
+Zotero
+Workspace
+
+# Ingore for dotfiles
+.bash_history
+.bash_logout
+.bash_profile
+.cache
+.bin
+.bundle
+.cargo
+.conda
+.config-att
+.conkyrc
+.dmrc
+.emacs.d
+.face
+.fehbg
+.gems
+.gitconfig
+.gtkrc-2.0
+.local
+.julia
+.keras
+.mozilla
+.npm
+.nv
+.profile
+.python_history
+.rustup
+.screenrc
+.vscode
+.wget-hsts
+.Xauthority
+.xinitrc
+.Xresources
+.xsession
+.xsessionrc
+.zcompdump-msi-gl63-5.9
+.zcompdump-msi-gl63-5.9.zwc
+.zsh_history
+.zshrc.bak
+.zshenv
+.bashrc.bak
+.pki
+
+# Ignore for software
+opt
+gurobi.lic
+
+# Ingore for .config
+autostart
+archlinux-logout
+archlinux-tweak-tool
+arcolinux-welcome-app
+coc
+Code
+conky
+dconf
+galculator
+gconf
+gh
+htop
+ibus
+ibus-bamboo
+Kvantum
+neofetch
+paru
+nomacs
+pavucontrol.ini
+qt5ct
+ranger
+Thunar
+Trolltech.conf
+user-dirs.locale
+yad.conf
+xfce4
+variety
+pulse
+alacritty.yml.bak
+dwm
+slstatus
+st
+
+# Ignore for C-compile files
+*.o
+*.tdb
+
+# Ignore for Xmonad
+build-x86_64-linux
+xmonad-x86_64-linux
+xmonad.errors
+
+# Ignore for image file
+*.jpg
+*.png
+
+# Ignore for GKT
+bookmarks
+
+# Ignore for pulse
