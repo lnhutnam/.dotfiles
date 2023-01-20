@@ -59,6 +59,7 @@ Workspace
 .stack
 .meteor
 .meteorsession
+.ssh
 
 # Ignore for software
 opt
