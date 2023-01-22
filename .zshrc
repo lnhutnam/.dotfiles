@@ -544,4 +544,5 @@ export LD_LIBRARY_PATH="${LD_LIBRARY_PATH}:${GUROBI_HOME}/lib"
 
 # Alias for conda
 alias conpy="/home/lnhutnam/anaconda3/bin/python"
+alias ctorch="/home/lnhutnam/anaconda3/envs/dev_torch/bin/python"
 export PATH=/home/lnhutnam/.meteor:$PATH
