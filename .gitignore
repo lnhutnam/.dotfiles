@@ -60,6 +60,8 @@ Workspace
 .meteor
 .meteorsession
 .ssh
+.condarc
+.nvidia-settings-rc
 
 # Ignore for software
 opt

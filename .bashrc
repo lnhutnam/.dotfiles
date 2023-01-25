@@ -383,3 +383,20 @@ export GUROBI_HOME="/home/lnhutnam/opt/gurobi950/linux64"
 export GRB_LICENSE_FILE="/home/lnhutnam/gurobi.lic"
 export PATH="${PATH}:${GUROBI_HOME}/bin"
 export LD_LIBRARY_PATH="${LD_LIBRARY_PATH}:${GUROBI_HOME}/lib"
+
+export PATH=/home/lnhutnam/.meteor:$PATH
+# >>> conda initialize >>>
+# !! Contents within this block are managed by 'conda init' !!
+__conda_setup="$('/home/lnhutnam/anaconda3/bin/conda' 'shell.bash' 'hook' 2> /dev/null)"
+if [ $? -eq 0 ]; then
+    eval "$__conda_setup"
+else
+    if [ -f "/home/lnhutnam/anaconda3/etc/profile.d/conda.sh" ]; then
+        . "/home/lnhutnam/anaconda3/etc/profile.d/conda.sh"
+    else
+        export PATH="/home/lnhutnam/anaconda3/bin:$PATH"
+    fi
+fi
+unset __conda_setup
+# <<< conda initialize <<<
+

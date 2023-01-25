@@ -518,6 +518,20 @@ export LD_LIBRARY_PATH=/optcuda/lib64:/opt/cuda/extras/CUPTI/lib64:$LD_LIBRARY_P
 # software
 export PATH="$HOME/opt/julia-1.8.5/bin:$HOME/.local/bin:$PATH"
 
+export PATH=/usr/bin:$PATH
+
+export BUNDLE_PATH=~/.gems
+
+export GUROBI_HOME="/home/lnhutnam/opt/gurobi1000/linux64"
+export GRB_LICENSE_FILE="/home/lnhutnam/gurobi.lic"
+export PATH="${PATH}:${GUROBI_HOME}/bin"
+export LD_LIBRARY_PATH="${LD_LIBRARY_PATH}:${GUROBI_HOME}/lib"
+
+# Alias for conda
+alias conpy="/home/lnhutnam/anaconda3/bin/python"
+alias ctorch="/home/lnhutnam/anaconda3/envs/dev_torch/bin/python"
+export PATH=/home/lnhutnam/.meteor:$PATH
+
 # >>> conda initialize >>>
 # !! Contents within this block are managed by 'conda init' !!
 __conda_setup="$('/home/lnhutnam/anaconda3/bin/conda' 'shell.zsh' 'hook' 2> /dev/null)"
@@ -533,16 +547,3 @@ fi
 unset __conda_setup
 # <<< conda initialize <<<
 
-export PATH=/usr/bin:$PATH
-
-export BUNDLE_PATH=~/.gems
-
-export GUROBI_HOME="/home/lnhutnam/opt/gurobi1000/linux64"
-export GRB_LICENSE_FILE="/home/lnhutnam/gurobi.lic"
-export PATH="${PATH}:${GUROBI_HOME}/bin"
-export LD_LIBRARY_PATH="${LD_LIBRARY_PATH}:${GUROBI_HOME}/lib"
-
-# Alias for conda
-alias conpy="/home/lnhutnam/anaconda3/bin/python"
-alias ctorch="/home/lnhutnam/anaconda3/envs/dev_torch/bin/python"
-export PATH=/home/lnhutnam/.meteor:$PATH
