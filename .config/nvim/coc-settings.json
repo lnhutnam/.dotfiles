@@ -1,2 +1,4 @@
-{"coc.preferences.diagnostic.displayByAle":1
+{
+  "coc.preferences.diagnostic.displayByAle": 1,
+  "snippets.ultisnips.pythonPrompt": false
 }

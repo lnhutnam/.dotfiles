@@ -24,7 +24,7 @@ Plug 'preservim/nerdtree'
 Plug 'preservim/nerdcommenter'
 Plug 'lervag/vimtex'
 Plug 'JuliaEditorSupport/julia-vim'
-Plug 'junegunn/fzf', { 'do': { -> fzf#install() } }
+Plug 'junegunn/fzf', { 'do': './install --all' } | Plug 'junegunn/fzf.vim'
 Plug 'junegunn/fzf.vim'
 Plug 'honza/vim-snippets'
 Plug 'vim-airline/vim-airline'

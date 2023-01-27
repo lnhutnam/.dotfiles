@@ -101,6 +101,7 @@ dwm
 slstatus
 st
 obs-studio
+skypeforlinux
 
 # Ignore for C-compile files
 *.o
