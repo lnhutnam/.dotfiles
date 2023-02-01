@@ -62,7 +62,6 @@ Workspace
 .ssh
 .condarc
 .nvidia-settings-rc
-mimeapps.list
 
 # Ignore for software
 opt
