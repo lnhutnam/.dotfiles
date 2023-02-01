@@ -372,11 +372,10 @@ neofetch
 #cpufetch
 #colorscript random
 
-export CUDA_HOME=/usr/local/cuda
-export PATH=/usr/local/cuda/bin:$PATH
-export CPATH=/usr/local/cuda/include:$CPATH
-export LIBRARY_PATH=/usr/local/cuda/lib64:$LIBRARY_PATH
-export LD_LIBRARY_PATH=/usr/local/cuda/lib64:/usr/local/cuda/extras/CUPTI/lib64:$LD_LIBRARY_PATH
+export CUDA_HOME=/opt/cuda
+export PATH=${CUDA_HOME}/bin:${PATH}
+export LD_LIBRARY_PATH=${CUDA_HOME}/lib64:$LD_LIBRARY_PATH
+
 . "$HOME/.cargo/env"
 
 export GUROBI_HOME="/home/lnhutnam/opt/gurobi950/linux64"

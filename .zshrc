@@ -510,10 +510,8 @@ alias personal='cp -Rf /personal/* ~'
 
 # CUDA, and CUDNN
 export CUDA_HOME=/opt/cuda
-export PATH=/usr/opt/cuda/bin:$PATH
-export CPATH=/usr/opt/cuda/include:$CPATH
-export LIBRARY_PATH=/opt/cuda/lib64:$LIBRARY_PATH
-export LD_LIBRARY_PATH=/optcuda/lib64:/opt/cuda/extras/CUPTI/lib64:$LD_LIBRARY_PATH
+export PATH=${CUDA_HOME}/bin:${PATH}
+export LD_LIBRARY_PATH=${CUDA_HOME}/lib64:$LD_LIBRARY_PATH
 
 # software
 export PATH="$HOME/opt/julia-1.8.5/bin:$HOME/.local/bin:$PATH"

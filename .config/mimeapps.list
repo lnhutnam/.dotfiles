@@ -92,3 +92,4 @@ x-scheme-handler/mailto=exo-mail-reader.desktop
 x-scheme-handler/trash=exo-file-manager.desktop
 x-scheme-handler/unknown=firefox.desktop
 text/x-c++src=code.desktop;
+application/x-ipynb+json=code.desktop;
