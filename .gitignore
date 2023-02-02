@@ -62,6 +62,7 @@ Workspace
 .ssh
 .condarc
 .nvidia-settings-rc
+.java
 
 # Ignore for software
 opt
@@ -102,6 +103,7 @@ slstatus
 st
 obs-studio
 skypeforlinux
+epdfview
 
 # Ignore for C-compile files
 *.o

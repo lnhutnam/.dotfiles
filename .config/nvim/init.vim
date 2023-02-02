@@ -20,15 +20,31 @@ nnoremap i :nohls<CR>i
 call plug#begin()
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
 Plug 'dense-analysis/ale'
+
+" Better file browser
 Plug 'preservim/nerdtree'
+
+" Code commenter
 Plug 'preservim/nerdcommenter'
+
+" For Latex
 Plug 'lervag/vimtex'
+
+" For Julia 
 Plug 'JuliaEditorSupport/julia-vim'
+
+"A command-line fuzzy finder 
 Plug 'junegunn/fzf', { 'do': './install --all' } | Plug 'junegunn/fzf.vim'
 Plug 'junegunn/fzf.vim'
+
+" Snippets
 Plug 'honza/vim-snippets'
+
+" Airline
 Plug 'vim-airline/vim-airline'
 Plug 'vim-airline/vim-airline-themes'
+
+" Theme
 Plug 'cocopon/iceberg.vim'
 Plug 'kevinhwang91/nvim-bqf' 
 Plug 'morhetz/gruvbox'
