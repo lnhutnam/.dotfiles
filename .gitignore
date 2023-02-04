@@ -63,6 +63,7 @@ Workspace
 .condarc
 .nvidia-settings-rc
 .java
+.jupyter
 
 # Ignore for software
 opt
