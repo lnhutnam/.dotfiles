@@ -65,6 +65,9 @@ Workspace
 .java
 .jupyter
 .config/GeoGebra/
+*.mp4
+.librewolf
+.newsboat
 
 # Ignore for software
 opt
