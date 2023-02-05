@@ -70,6 +70,7 @@ Workspace
 .fzf
 .vim
 .viminfo
+.moc
 
 # Ignore for software
 opt
