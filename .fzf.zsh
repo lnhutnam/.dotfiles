@@ -1,13 +1,13 @@
 # Setup fzf
 # ---------
-if [[ ! "$PATH" == */home/lnhutnam/.local/share/nvim/plugged/fzf/bin* ]]; then
-  PATH="${PATH:+${PATH}:}/home/lnhutnam/.local/share/nvim/plugged/fzf/bin"
+if [[ ! "$PATH" == */home/lnhutnam/.fzf/bin* ]]; then
+  PATH="${PATH:+${PATH}:}/home/lnhutnam/.fzf/bin"
 fi
 
 # Auto-completion
 # ---------------
-[[ $- == *i* ]] && source "/home/lnhutnam/.local/share/nvim/plugged/fzf/shell/completion.zsh" 2> /dev/null
+[[ $- == *i* ]] && source "/home/lnhutnam/.fzf/shell/completion.zsh" 2> /dev/null
 
 # Key bindings
 # ------------
-source "/home/lnhutnam/.local/share/nvim/plugged/fzf/shell/key-bindings.zsh"
+source "/home/lnhutnam/.fzf/shell/key-bindings.zsh"

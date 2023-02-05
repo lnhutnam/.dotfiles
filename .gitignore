@@ -68,6 +68,10 @@ Workspace
 *.mp4
 .librewolf
 .newsboat
+.fzf
+.vim
+.viminfo
+
 
 # Ignore for software
 opt
