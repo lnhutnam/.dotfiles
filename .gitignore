@@ -72,7 +72,6 @@ Workspace
 .vim
 .viminfo
 
-
 # Ignore for software
 opt
 gurobi.lic
@@ -116,6 +115,8 @@ epdfview
 GeoGebra
 kritadisplayrc
 kritarc
+octave
+playlists
 
 # Ignore for C-compile files
 *.o

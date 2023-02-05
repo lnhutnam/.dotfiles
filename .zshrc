@@ -554,3 +554,5 @@ unset __conda_setup
 
 
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
+
+#MPD_HOST = /home/lnhutnam/.config/mpd/socket
