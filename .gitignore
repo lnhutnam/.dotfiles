@@ -17,7 +17,6 @@ Workspace
 .bash_logout
 .bash_profile
 .cache
-.bin
 .bundle
 .cargo
 .conda
