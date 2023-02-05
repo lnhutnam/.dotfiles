@@ -64,6 +64,7 @@ Workspace
 .nvidia-settings-rc
 .java
 .jupyter
+.config/GeoGebra/
 
 # Ignore for software
 opt
@@ -105,6 +106,9 @@ st
 obs-studio
 skypeforlinux
 epdfview
+GeoGebra
+kritadisplayrc
+kritarc
 
 # Ignore for C-compile files
 *.o
