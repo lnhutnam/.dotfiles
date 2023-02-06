@@ -487,6 +487,9 @@ alias pamac-unlock="sudo rm /var/tmp/pamac/dbs/db.lock"
 #moving your personal files and folders from /personal to ~
 alias personal='cp -Rf /personal/* ~'
 
+# lf
+alias lf="lfub"
+
 #create a file called .zshrc-personal and put all your personal aliases
 #in there. They will not be overwritten by skel.
 
@@ -529,7 +532,7 @@ export LD_LIBRARY_PATH="${LD_LIBRARY_PATH}:${GUROBI_HOME}/lib"
 alias doom='~/.emacs.d/bin/doom'
 alias doomsync='~/.emacs.d/bin/doom sync'
 alias doomdoctor='~/.emacs.d/bin/doom doctor'
-alias doomupgrade='~/.emacs.d/bin/doom upgrade' 
+alias doomupgrade='~/.emacs.d/bin/doom upgrade'
 alias doompurge='~/.emacs.d/bin/doom purge'
 
 # Alias for conda
