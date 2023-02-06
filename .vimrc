@@ -144,6 +144,14 @@ Plug 'neomake/neomake'
 Plug 'myusuf3/numbers.vim'
 " Nice icons in the file explorer and file type status line.
 Plug 'ryanoasis/vim-devicons'
+" For Latex
+Plug 'lervag/vimtex'
+
+" For Julia
+Plug 'JuliaEditorSupport/julia-vim'
+
+"For snippests
+Plug 'honza/vim-snippets'
 
 if using_vim
     " Consoles as buffers (neovim has its own consoles as buffers)
