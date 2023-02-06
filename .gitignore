@@ -71,10 +71,15 @@ Workspace
 .vim
 .viminfo
 .moc
+.zoom
 
 # Ignore for software
 opt
 gurobi.lic
+Unknown Organization
+cef_user_data
+zoom.conf
+zoomus.conf
 
 # Ingore for .config
 autostart

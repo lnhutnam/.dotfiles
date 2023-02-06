@@ -144,7 +144,7 @@ myKeys conf@(XConfig {XMonad.modMask = modMask}) = M.fromList $
   , ((modMask, xK_y), spawn $ "polybar-msg cmd toggle" )
   , ((modMask, xK_x), spawn $ "archlinux-logout" )
   , ((modMask, xK_Escape), spawn $ "xkill" )
-  , ((modMask, xK_Return), spawn $ "alacritty" )
+  , ((modMask, xK_Return), spawn $ "st" )
   , ((modMask, xK_F1), spawn $ "vivaldi-stable" )
   , ((modMask, xK_F2), spawn $ "atom" )
   , ((modMask, xK_F3), spawn $ "inkscape" )
