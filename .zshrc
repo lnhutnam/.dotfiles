@@ -510,6 +510,8 @@ alias lf="lfub"
 #sysinfo-retro
 #cpufetch
 #colorscript random
+#
+
 
 # CUDA, and CUDNN
 export CUDA_HOME=/opt/cuda
@@ -523,10 +525,10 @@ export PATH=/usr/bin:$PATH
 
 export BUNDLE_PATH=~/.gems
 
-export GUROBI_HOME="/home/lnhutnam/opt/gurobi1000/linux64"
+export GUROBI_HOME="/home/lnhutnam/opt/gurobi1001/linux64"
 export GRB_LICENSE_FILE="/home/lnhutnam/gurobi.lic"
-export PATH="${PATH}:${GUROBI_HOME}/bin"
-export LD_LIBRARY_PATH="${LD_LIBRARY_PATH}:${GUROBI_HOME}/lib"
+export PATH="${PATH}:${GUROBI_HOME}/bin/"
+export LD_LIBRARY_PATH="${LD_LIBRARY_PATH}:${GUROBI_HOME}/lib/"
 
 # for doom emacs
 alias doom='~/.emacs.d/bin/doom'
