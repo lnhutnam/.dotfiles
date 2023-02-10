@@ -512,11 +512,17 @@ alias lf="lfub"
 #colorscript random
 #
 
+export PKG_CONFIG_PATH=/usr/local/lib64/pkgconfig:$PKG_CONFIG_PATH
+export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/local/lib64
 
 # CUDA, and CUDNN
-export CUDA_HOME=/opt/cuda
-export PATH=${CUDA_HOME}/bin:${PATH}
-export LD_LIBRARY_PATH=${CUDA_HOME}/lib64:$LD_LIBRARY_PATH
+#export CUDA_HOME=/opt/cuda
+#export PATH=${CUDA_HOME}/bin:${PATH}
+#export LD_LIBRARY_PATH=${CUDA_HOME}/lib64:$LD_LIBRARY_PATH
+
+export CPATH=/opt/cuda/targets/x86_64-linux/include:$CPATH
+export LIBRARY_PATH=/opt/cuda/targets/x86_64-linux/lib:$LIBRARY_PATH
+export PATH=/opt/cuda/bin:$PATH
 
 # software
 export PATH="$HOME/opt/julia-1.8.5/bin:$HOME/.local/bin:$PATH"
