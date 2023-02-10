@@ -72,6 +72,7 @@ Workspace
 .viminfo
 .moc
 .zoom
+QtProject.conf
 
 # Ignore for software
 opt
