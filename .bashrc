@@ -382,6 +382,8 @@ export PATH=/opt/cuda/bin:$PATH
 
 . "$HOME/.cargo/env"
 
+export PATH="$HOME/opt/julia-1.6.7/bin:$HOME/.local/bin:$PATH"
+
 export GUROBI_HOME="/home/lnhutnam/opt/gurobi1001/linux64"
 export GRB_LICENSE_FILE="/home/lnhutnam/gurobi.lic"
 export PATH="${PATH}:${GUROBI_HOME}/bin/"

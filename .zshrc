@@ -213,8 +213,8 @@ alias pacman="sudo pacman --color auto"
 alias update="sudo pacman -Syyu"
 
 # paru as aur helper - updates everything
-alias pksyua="paru -Syu --noconfirm"
-alias upall="paru -Syu --noconfirm"
+#alias pksyua="paru -Syu --noconfirm"
+#alias upall="paru -Syu --noconfirm"
 
 #ps
 alias psa="ps auxf"
@@ -266,7 +266,7 @@ alias hw="hwinfo --short"
 alias audio="pactl info | grep 'Server Name'"
 
 #skip integrity check
-alias paruskip='paru -S --mflags --skipinteg'
+#alias paruskip='paru -S --mflags --skipinteg'
 alias yayskip='yay -S --mflags --skipinteg'
 alias trizenskip='trizen -S --skipinteg'
 
@@ -525,7 +525,7 @@ export LIBRARY_PATH=/opt/cuda/targets/x86_64-linux/lib:$LIBRARY_PATH
 export PATH=/opt/cuda/bin:$PATH
 
 # software
-export PATH="$HOME/opt/julia-1.8.5/bin:$HOME/.local/bin:$PATH"
+export PATH="$HOME/opt/julia-1.6.7/bin:$HOME/.local/bin:$PATH"
 
 export PATH=/usr/bin:$PATH
 

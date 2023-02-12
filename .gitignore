@@ -81,6 +81,10 @@ Unknown Organization
 cef_user_data
 zoom.conf
 zoomus.conf
+Notepadqq
+xournalpp
+*.mkv
+*.mp4
 
 # Ingore for .config
 autostart
