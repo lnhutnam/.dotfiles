@@ -139,7 +139,7 @@ xmonad.errors
 
 # Ignore for image file
 *.jpg
-*.png
+#*.png
 
 # Ignore for GKT
 bookmarks
