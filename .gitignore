@@ -127,6 +127,8 @@ kritadisplayrc
 kritarc
 octave
 playlists
+texstudio
+
 
 # Ignore for C-compile files
 *.o
