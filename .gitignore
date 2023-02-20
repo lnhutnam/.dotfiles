@@ -73,6 +73,7 @@ Workspace
 .moc
 .zoom
 QtProject.conf
+obsidian
 
 # Ignore for software
 opt
