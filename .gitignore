@@ -74,6 +74,7 @@ Workspace
 .zoom
 QtProject.conf
 obsidian
+pamac
 
 # Ignore for software
 opt
