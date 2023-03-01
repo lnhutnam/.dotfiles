@@ -75,6 +75,7 @@ Workspace
 QtProject.conf
 obsidian
 pamac
+label-studio
 
 # Ignore for software
 opt
