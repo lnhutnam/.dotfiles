@@ -76,6 +76,7 @@ QtProject.conf
 obsidian
 pamac
 label-studio
+libreoffice
 
 # Ignore for software
 opt
