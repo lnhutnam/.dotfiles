@@ -89,6 +89,7 @@ Notepadqq
 xournalpp
 *.mkv
 *.mp4
+*.docx
 
 # Ingore for .config
 autostart
