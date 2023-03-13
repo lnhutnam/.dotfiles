@@ -77,6 +77,10 @@ obsidian
 pamac
 label-studio
 libreoffice
+.npmrc
+.vscode-oss
+.yarnrc
+okularrc
 
 # Ignore for software
 opt
@@ -90,6 +94,10 @@ xournalpp
 *.mkv
 *.mp4
 *.docx
+Electron
+VSCodium
+chromium
+Code - OSS
 
 # Ingore for .config
 autostart
