@@ -2,8 +2,13 @@
 FullScreen=false
 
 [MainWindow]
-State=AAAA/wAAAAD9AAAAAAAAA0EAAAOrAAAABAAAAAQAAAAIAAAACPwAAAADAAAAAQAAAAEAAAAsAHEAdQBpAGMAawBBAG4AbgBvAHQAYQB0AGkAbwBuAFQAbwBvAGwAQgBhAHICAAAAAP////8AAAAAAAAAAAAAAAIAAAABAAAAFgBtAGEAaQBuAFQAbwBvAGwAQgBhAHIBAAAAAP////8AAAAAAAAAAAAAAAIAAAABAAAAIgBhAG4AbgBvAHQAYQB0AGkAbwBuAFQAbwBvAGwAQgBhAHIAAAAAAP////8AAAAAAAAAAA==
+1920x1080 screen: Height=1045
+1920x1080 screen: Width=953
+1920x1080 screen: XPosition=6
+1920x1080 screen: YPosition=29
+State=AAAA/wAAAAD9AAAAAAAAA7kAAAPKAAAABAAAAAQAAAAIAAAACPwAAAADAAAAAQAAAAEAAAAsAHEAdQBpAGMAawBBAG4AbgBvAHQAYQB0AGkAbwBuAFQAbwBvAGwAQgBhAHICAAAAAP////8AAAAAAAAAAAAAAAIAAAABAAAAFgBtAGEAaQBuAFQAbwBvAGwAQgBhAHIBAAAAAP////8AAAAAAAAAAAAAAAIAAAABAAAAIgBhAG4AbgBvAHQAYQB0AGkAbwBuAFQAbwBvAGwAQgBhAHIAAAAAAP////8AAAAAAAAAAA==
 ToolBarsMovable=Disabled
+eDP-1=eDP-1
 eDP-1 HDMI-2=HDMI-2
 eDP-1 HDMI-2 Height 1679x1049 HDMI-2=1014
 eDP-1 HDMI-2 Height 1919x1079 eDP-1=1044
@@ -20,11 +25,15 @@ File2[$e]=$HOME/Documents/On_thi_thac_si_toan/tai_lieu/Tom-tat-kien-thuc-Giai-ti
 File3[$e]=$HOME/Documents/On_thi_thac_si_toan/tai_lieu/GT2A-Trong-Thanh-Tuan.pdf
 File4[$e]=/run/media/lnhutnam/Research/HCMUS/Master-K32/LT4AI/RL4MRD/presentation_slides/vi/thesis_presentation.pdf
 File5[$e]=/run/media/lnhutnam/Research/Research/RL/Reinforcement-Learning-on-Graphs/Relational Reasoning/2109.04101.pdf
+File6[$e]=/run/media/lnhutnam/Data/Teaching Assistant/2023-2024/Intro2BigData/Lab02/Lab02 - MapReduce.pdf
+File7[$e]=/run/media/lnhutnam/Data/Teaching Assistant/2023-2024/Intro2BigData/Lab03/Yeu cau Lab03.pdf
 Name1[$e]=RLbook2020.pdf
 Name2[$e]=Tom-tat-kien-thuc-Giai-tich-A2.pdf
 Name3[$e]=GT2A-Trong-Thanh-Tuan.pdf
 Name4[$e]=thesis_presentation.pdf
 Name5[$e]=2109.04101.pdf
+Name6[$e]=Lab02 - MapReduce.pdf
+Name7[$e]=Yeu cau Lab03.pdf
 
 [UiSettings]
 ColorScheme=KvantumAlt

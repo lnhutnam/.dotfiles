@@ -81,6 +81,8 @@ libreoffice
 .vscode-oss
 .yarnrc
 okularrc
+vlc
+.config/okularrc
 
 # Ignore for software
 opt
