@@ -83,6 +83,9 @@ libreoffice
 okularrc
 vlc
 .config/okularrc
+inkscape
+okularpartrc
+
 
 # Ignore for software
 opt
