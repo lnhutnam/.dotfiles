@@ -85,7 +85,7 @@ vlc
 .config/okularrc
 inkscape
 okularpartrc
-
+.visdom
 
 # Ignore for software
 opt
