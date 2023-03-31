@@ -86,6 +86,11 @@ vlc
 inkscape
 okularpartrc
 .visdom
+calcurse
+kconf_updaterc
+kdeglobals
+nvtop
+.icons
 
 # Ignore for software
 opt

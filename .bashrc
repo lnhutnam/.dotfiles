@@ -34,7 +34,7 @@ if [ -d "$HOME/.local/bin" ] ;
 fi
 
 #ignore upper and lowercase when TAB completion
-bind "set completion-ignore-case on"
+# bind "set completion-ignore-case on"
 
 ### ALIASES ###
 
@@ -179,12 +179,12 @@ alias vmware-start="sudo systemctl enable --now vmtoolsd.service"
 alias sv="sudo systemctl enable --now vmtoolsd.service"
 
 #shopt
-shopt -s autocd # change to named directory
-shopt -s cdspell # autocorrects cd misspellings
-shopt -s cmdhist # save multi-line commands in history as single line
-shopt -s dotglob
-shopt -s histappend # do not overwrite history
-shopt -s expand_aliases # expand aliases
+# shopt -s autocd # change to named directory
+# shopt -s cdspell # autocorrects cd misspellings
+# shopt -s cmdhist # save multi-line commands in history as single line
+# shopt -s dotglob
+# shopt -s histappend # do not overwrite history
+# shopt -s expand_aliases # expand aliases
 
 #youtube download
 alias yta-aac="yt-dlp --extract-audio --audio-format aac "
@@ -390,6 +390,21 @@ export PATH="${PATH}:${GUROBI_HOME}/bin/"
 export LD_LIBRARY_PATH="${LD_LIBRARY_PATH}:${GUROBI_HOME}/lib/"
 
 export PATH=/home/lnhutnam/.meteor:$PATH
+
+# hadoop
+export JAVA_HOME=/usr/lib/jvm/java-8-openjdk
+export HADOOP_HOME="/home/lnhutnam/opt/hadoop-3.3.4"
+export HADOOP_CONF_DIR=${HADOOP_HOME}/etc/hadoop
+export HADOOP_INSTALL=$HADOOP_HOME
+export HADOOP_MAPRED_HOME=$HADOOP_HOME
+export HADOOP_COMMON_HOME=$HADOOP_HOME
+export HADOOP_HDFS_HOME=$HADOOP_HOME
+export YARN_HOME=$HADOOP_HOME
+export HADOOP_COMMON_LIB_NATIVE_DIR="$HADOOP_HOME/lib/native"
+export PATH="$PATH:$HADOOP_HOME/sbin:$HADOOP_HOME/bin"
+export HADOOP_OPTS="-Djava.library.path=$HADOOP_HOME/lib/native"
+
+
 # >>> conda initialize >>>
 # !! Contents within this block are managed by 'conda init' !!
 __conda_setup="$('/home/lnhutnam/anaconda3/bin/conda' 'shell.bash' 'hook' 2> /dev/null)"
