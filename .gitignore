@@ -91,6 +91,8 @@ kconf_updaterc
 kdeglobals
 nvtop
 .icons
+QtProject
+clangd
 
 # Ignore for software
 opt
