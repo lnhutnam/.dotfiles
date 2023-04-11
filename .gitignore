@@ -93,6 +93,9 @@ nvtop
 .icons
 QtProject
 clangd
+enchant
+*.sqlite
+
 
 # Ignore for software
 opt
