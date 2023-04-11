@@ -1,10 +1,10 @@
 #Ibus settings if you need them
 #type ibus-setup in terminal to change settings and start the daemon
 #delete the hashtags of the next lines and restart
-ibus-daemon -drx
 export GTK_IM_MODULE=ibus
-export XMODIFIERS=@im=dbus
+export XMODIFIERS=@im=ibus
 export QT_IM_MODULE=ibus
+ibus restart
 
 ### EXPORT ###
 export EDITOR='nano'
