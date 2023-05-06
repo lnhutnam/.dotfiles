@@ -95,6 +95,11 @@ QtProject
 clangd
 enchant
 *.sqlite
+pip
+.pip 
+wg0-client-1.conf
+.zcompdump-namlnhut-5.9
+.zcompdump-namlnhut-5.9.zwc
 
 
 # Ignore for software

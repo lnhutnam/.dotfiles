@@ -102,6 +102,7 @@ application/x-extension-xhtml=userapp-Firefox-N4BDZ1.desktop;
 application/x-extension-xht=userapp-Firefox-N4BDZ1.desktop;
 text/x-tex=texstudio.desktop;
 application/x-zerosize=code.desktop;mpv.desktop;
+text/csv=libreoffice-calc.desktop;
 
 [Default Applications]
 x-scheme-handler/http=userapp-Firefox-N4BDZ1.desktop
@@ -116,3 +117,4 @@ application/x-extension-xhtml=userapp-Firefox-N4BDZ1.desktop
 application/x-extension-xht=userapp-Firefox-N4BDZ1.desktop
 application/vnd.ms-publisher=notepadqq.desktop
 application/x-zerosize=mpv.desktop
+x-scheme-handler/msteams=teams.desktop
