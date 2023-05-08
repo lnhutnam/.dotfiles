@@ -100,7 +100,7 @@ application/x-extension-shtml=userapp-Firefox-N4BDZ1.desktop;
 application/xhtml+xml=userapp-Firefox-N4BDZ1.desktop;
 application/x-extension-xhtml=userapp-Firefox-N4BDZ1.desktop;
 application/x-extension-xht=userapp-Firefox-N4BDZ1.desktop;
-text/x-tex=texstudio.desktop;
+text/x-tex=texstudio.desktop;texmaker.desktop;
 application/x-zerosize=code.desktop;mpv.desktop;
 text/csv=libreoffice-calc.desktop;
 
