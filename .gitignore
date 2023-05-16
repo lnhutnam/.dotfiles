@@ -13,6 +13,7 @@ Zotero
 Workspace
 
 # Ingore for dotfiles
+*.log
 .bash_history
 .bash_logout
 .bash_profile
