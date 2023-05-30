@@ -547,8 +547,8 @@ alias doomupgrade='~/.emacs.d/bin/doom upgrade'
 alias doompurge='~/.emacs.d/bin/doom purge'
 
 # Alias for conda
-alias conpy="/home/lnhutnam/anaconda3/bin/python"
-alias ctorch="/home/lnhutnam/anaconda3/envs/dev_torch/bin/python"
+# alias conpy="/home/lnhutnam/anaconda3/bin/python"
+# alias ctorch="/home/lnhutnam/anaconda3/envs/dev_torch/bin/python"
 export PATH=/home/lnhutnam/.meteor:$PATH
 
 # hadoop
@@ -564,8 +564,6 @@ export HADOOP_COMMON_LIB_NATIVE_DIR="$HADOOP_HOME/lib/native"
 export PATH="$PATH:$HADOOP_HOME/sbin:$HADOOP_HOME/bin"
 export HADOOP_OPTS="-Djava.library.path=$HADOOP_HOME/lib/native"
 
-# alias for app chat
-alias conversion="/home/lnhutnam/opt/converse_desktop-9.1.0_x64/conversedesktop"
 
 # >>> conda initialize >>>
 # !! Contents within this block are managed by 'conda init' !!

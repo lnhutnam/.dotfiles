@@ -405,7 +405,6 @@ export HADOOP_COMMON_LIB_NATIVE_DIR="$HADOOP_HOME/lib/native"
 export PATH="$PATH:$HADOOP_HOME/sbin:$HADOOP_HOME/bin"
 export HADOOP_OPTS="-Djava.library.path=$HADOOP_HOME/lib/native"
 
-
 # >>> conda initialize >>>
 # !! Contents within this block are managed by 'conda init' !!
 __conda_setup="$('/home/lnhutnam/anaconda3/bin/conda' 'shell.bash' 'hook' 2> /dev/null)"

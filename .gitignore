@@ -13,6 +13,8 @@ Zotero
 Workspace
 
 # Ingore for dotfiles
+Ultralytics
+.m2
 *.log
 .thunderbird
 .bash_history
