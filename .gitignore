@@ -13,6 +13,7 @@ Zotero
 Workspace
 
 # Ingore for dotfiles
+*.sqlite
 Ultralytics
 .m2
 *.log
