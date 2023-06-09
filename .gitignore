@@ -13,6 +13,7 @@ Zotero
 Workspace
 
 # Ingore for dotfiles
+.redhat
 lapce-stable
 *.sqlite
 Ultralytics
