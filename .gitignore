@@ -13,6 +13,8 @@ Zotero
 Workspace
 
 # Ingore for dotfiles
+.vscode-R
+R
 database
 log
 pid
