@@ -13,6 +13,7 @@ Zotero
 Workspace
 
 # Ingore for dotfiles
+Kitware
 .vscode-R
 R
 database
