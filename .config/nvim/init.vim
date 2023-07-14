@@ -39,6 +39,11 @@ Plug 'junegunn/fzf.vim'
 
 " Snippets
 Plug 'honza/vim-snippets'
+Plug 'SirVer/ultisnips'
+
+" Distraction-free writting
+Plug 'junegunn/goyo.vim'
+Plug 'junegunn/limelight.vim'
 
 " Airline
 Plug 'vim-airline/vim-airline'
@@ -62,6 +67,12 @@ let g:airline_theme='papercolor'
 
 " Setting for neovide
 let g:neovide_scale_factor = 0.5
+
+" Setup for Utilsnips
+" Trigger configuration. Do not use <tab> if you use https://github.com/Valloric/YouCompleteMe.
+let g:UltiSnipsExpandTrigger="<tab>"  " use <Tab> to trigger autocompletion
+let g:UltiSnipsJumpForwardTrigger="<c-j>"
+let g:UltiSnipsJumpBackwardTrigger="<c-k>"
 
 "Open NERDTree
 :nnoremap <silent> <expr> <F2> g:NERDTree.IsOpen() ? "\:NERDTreeClose<CR>" : bufexists(expand('%')) ? "\:NERDTreeFind<CR>" : "\:NERDTree<CR>"
