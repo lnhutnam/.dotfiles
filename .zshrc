@@ -419,6 +419,9 @@ alias bls="betterlockscreen -u /usr/share/backgrounds/arcolinux/"
 alias xd="ls /usr/share/xsessions"
 alias xdw="ls /usr/share/wayland-sessions"
 
+#for lazygit
+alias lg='lazygit'
+
 # # ex = EXtractor for all kinds of archives
 # # usage: ex <file>
 ex ()
