@@ -1,3 +1,15 @@
+# CUDA Loader
+function _switch_cuda {
+   v=$1
+   export PATH=$PATH:/usr/local/cuda-$v/bin
+   export CUDADIR=/usr/local/cuda-$v
+   export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/local/cuda-$v/lib64
+   nvcc --version
+}
+
+# 11.7, 10.2
+_switch_cuda 10.2 # change the version of your like to load bash.
+
 ###
 # If you come from bash you might have to change your $PATH.
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
@@ -526,9 +538,9 @@ export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/local/lib64
 #export PATH=${CUDA_HOME}/bin:${PATH}
 #export LD_LIBRARY_PATH=${CUDA_HOME}/lib64:$LD_LIBRARY_PATH
 
-export CUDA_HOME="/usr/local/cuda-11.7"
-export LD_LIBRARY_PATH="/usr/local/cuda-11.7/lib64:$LD_LIBRARY_PATH"
-export PATH="/usr/local/cuda-11.7/bin:$PATH"
+#export CUDA_HOME="/usr/local/cuda-11.7"
+#export LD_LIBRARY_PATH="/usr/local/cuda-11.7/lib64:$LD_LIBRARY_PATH"
+#export PATH="/usr/local/cuda-11.7/bin:$PATH"
 
 # software
 export PATH="$HOME/opt/julia-1.6.7/bin:$HOME/.local/bin:$PATH"
