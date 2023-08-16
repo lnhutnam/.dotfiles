@@ -2,7 +2,7 @@
 application/gzip=org.gnome.FileRoller.desktop;
 application/json=code.desktop;sublime_text.desktop;code-oss.desktop;visual-studio-code.desktop;
 application/octet-stream=sublime_text.desktop;code-oss.desktop;visual-studio-code.desktop;
-application/pdf=okularApplication_pdf.desktop;atril.desktop;mupdf.desktop;com.github.jeromerobert.pdfarranger.desktop;scribus.desktop;com.github.xournalpp.xournalpp.desktop;org.kde.okular.desktop;org.gnome.Evince.desktop;
+application/pdf=atril.desktop;okularApplication_pdf.desktop;mupdf.desktop;com.github.jeromerobert.pdfarranger.desktop;scribus.desktop;com.github.xournalpp.xournalpp.desktop;org.kde.okular.desktop;org.gnome.Evince.desktop;
 application/pgp-encrypted=sublime_text.desktop;code-oss.desktop;visual-studio-code.desktop;
 application/pgp-keys=sublime_text.desktop;code-oss.desktop;visual-studio-code.desktop;
 application/pgp-signature=sublime_text.desktop;code-oss.desktop;visual-studio-code.desktop;
@@ -75,7 +75,7 @@ text/x-qml=sublime_text.desktop;
 text/x-readme=sublime_text.desktop;
 text/x-scheme=sublime_text.desktop;
 text/x-systemd-unit=sublime_text.desktop;
-video/mp4=vlc.desktop;
+video/mp4=mpv.desktop;vlc.desktop;
 video/mpeg=vlc.desktop;
 video/quicktime=vlc.desktop;
 video/x-flv=vlc.desktop;
