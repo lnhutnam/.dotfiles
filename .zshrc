@@ -545,7 +545,7 @@ export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/local/lib64
 # software
 export PATH="$HOME/opt/julia-1.6.7/bin:$HOME/.local/bin:$PATH"
 
-export PATH=/usr/bin:$PATH
+export PATH=/usr/local/bin:$PATH
 
 export BUNDLE_PATH=~/.gems
 
