@@ -2,6 +2,7 @@
 anaconda3
 
 # Ignore for normal folders
+Apps
 Sync
 Desktop
 Documents
@@ -15,6 +16,7 @@ Workspace
 Research
 go 
 teams-for-linux
+ristretto
 
 # Ingore for dotfiles
 .labelmerc
