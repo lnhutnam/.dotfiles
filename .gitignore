@@ -23,6 +23,8 @@ microsoft-edge
 
 # Ingore for dotfiles
 .labelmerc
+.aws
+.eclipse
 Kitware
 .vscode-R
 R
