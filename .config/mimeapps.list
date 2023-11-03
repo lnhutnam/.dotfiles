@@ -59,7 +59,7 @@ inode/directory=org.kde.dolphin.desktop;exo-file-manager.desktop;thunar
 text/css=sublime_text.desktop;code-oss.desktop;visual-studio-code.desktop;
 text/html=firefox.desktop;userapp-Firefox-N4BDZ1.desktop;
 text/markdown=code.desktop;atril.desktop;okularApplication_md.desktop;sublime_text.desktop;code-oss.desktop;visual-studio-code.desktop;
-text/plain=code.desktop;okularApplication_txt.desktop;notepadqq.desktop;sublime_text.desktop;code-oss.desktop;visual-studio-code.desktop;
+text/plain=notepadqq.desktop;code.desktop;okularApplication_txt.desktop;sublime_text.desktop;code-oss.desktop;visual-studio-code.desktop;
 text/x-changelog=sublime_text.desktop;code-oss.desktop;visual-studio-code.desktop;
 text/x-chdr=code.desktop;sublime_text.desktop;code-oss.desktop;visual-studio-code.desktop;
 text/x-cmake=sublime_text.desktop;code-oss.desktop;visual-studio-code.desktop;
@@ -104,6 +104,7 @@ text/x-tex=texstudio.desktop;texmaker.desktop;
 application/x-zerosize=code.desktop;mpv.desktop;
 text/csv=libreoffice-calc.desktop;
 x-scheme-handler/mid=userapp-Thunderbird-VXGZ51.desktop;
+text/x-java=notepadqq.desktop;
 
 [Default Applications]
 x-scheme-handler/http=userapp-Firefox-N4BDZ1.desktop

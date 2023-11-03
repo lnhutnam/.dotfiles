@@ -3,6 +3,7 @@ anaconda3
 
 # Ignore for normal folders
 Apps
+Android
 Sync
 Desktop
 Documents
@@ -19,9 +20,18 @@ teams-for-linux
 ristretto
 filezilla
 microsoft-edge
-
+javasharedresources
+Google
+Signal
+Android Open Source Project
 
 # Ingore for dotfiles
+.android
+.com.zerog.registry.xml
+.emulator_console_auth_token
+.gradle
+.ibm_cplex_studio
+wg0-client-2.conf
 .labelmerc
 .aws
 .eclipse

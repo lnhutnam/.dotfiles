@@ -543,18 +543,26 @@ export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/local/lib64
 #export PATH="/usr/local/cuda-11.7/bin:$PATH"
 
 # software
+
+## julia
 export PATH="$HOME/opt/julia-1.6.7/bin:$HOME/.local/bin:$PATH"
 
 export PATH=/usr/local/bin:$PATH
 
+## ruby, gems 
 export BUNDLE_PATH=~/.gems
 
+## gurobi
 export GUROBI_HOME="/home/lnhutnam/opt/gurobi1001/linux64"
 export GRB_LICENSE_FILE="/home/lnhutnam/gurobi.lic"
 export PATH="${PATH}:${GUROBI_HOME}/bin/"
 export LD_LIBRARY_PATH="${LD_LIBRARY_PATH}:${GUROBI_HOME}/lib/"
 
-# for doom emacs
+## cplex
+export CPLEX_ROOT_DIR="$HOME/opt/ibm/ILOG/CPLEX_Studio2211"
+export PATH="${PATH}:${CPLEX_ROOT_DIR}/cplex/bin/x86-64_linux"
+
+## for doom emacs
 alias doom='~/.emacs.d/bin/doom'
 alias doomsync='~/.emacs.d/bin/doom sync'
 alias doomdoctor='~/.emacs.d/bin/doom doctor'
