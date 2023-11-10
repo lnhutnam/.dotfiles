@@ -24,6 +24,7 @@ javasharedresources
 Google
 Signal
 Android Open Source Project
+tensorflow_datasets
 
 # Ingore for dotfiles
 .android
