@@ -2,7 +2,7 @@
 application/gzip=org.gnome.FileRoller.desktop;
 application/json=code.desktop;notepadqq.desktop;sublime_text.desktop;code-oss.desktop;visual-studio-code.desktop;
 application/octet-stream=sublime_text.desktop;code-oss.desktop;visual-studio-code.desktop;
-application/pdf=atril.desktop;chromium.desktop;mupdf.desktop;okularApplication_pdf.desktop;com.github.jeromerobert.pdfarranger.desktop;scribus.desktop;com.github.xournalpp.xournalpp.desktop;org.kde.okular.desktop;org.gnome.Evince.desktop;
+application/pdf=atril.desktop;com.github.xournalpp.xournalpp.desktop;org.pwmt.zathura-pdf-poppler.desktop;mupdf.desktop;chromium.desktop;okularApplication_pdf.desktop;com.github.jeromerobert.pdfarranger.desktop;scribus.desktop;org.kde.okular.desktop;org.gnome.Evince.desktop;
 application/pgp-encrypted=sublime_text.desktop;code-oss.desktop;visual-studio-code.desktop;
 application/pgp-keys=sublime_text.desktop;code-oss.desktop;visual-studio-code.desktop;
 application/pgp-signature=sublime_text.desktop;code-oss.desktop;visual-studio-code.desktop;
@@ -118,4 +118,3 @@ x-scheme-handler/msteams=teams.desktop
 x-scheme-handler/mailto=xfce4-mail-reader.desktop
 message/rfc822=userapp-Thunderbird-VXGZ51.desktop
 x-scheme-handler/mid=userapp-Thunderbird-VXGZ51.desktop
-
