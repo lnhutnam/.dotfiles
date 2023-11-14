@@ -1,9 +1,9 @@
 syntax on
-"set number "Show current line number
-set relativenumber "Show relative line numbers
+set number
 set cursorline
 set expandtab tabstop=4 shiftwidth=4 softtabstop=4
 set autoindent
+set spelllang=vi,en
 
 
 " Fold
@@ -20,65 +20,33 @@ nnoremap i :nohls<CR>i
 call plug#begin()
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
 Plug 'dense-analysis/ale'
-
-" Better file browser
 Plug 'preservim/nerdtree'
-
-" Code commenter
 Plug 'preservim/nerdcommenter'
-
-" For Latex
 Plug 'lervag/vimtex'
-
-" For Julia 
 Plug 'JuliaEditorSupport/julia-vim'
-
-"A command-line fuzzy finder 
-Plug 'junegunn/fzf', { 'do': './install --all' } | Plug 'junegunn/fzf.vim'
+Plug 'junegunn/fzf', { 'do': { -> fzf#install() } }
 Plug 'junegunn/fzf.vim'
-
-" Snippets
-Plug 'honza/vim-snippets'
-Plug 'SirVer/ultisnips'
-
-" Distraction-free writting
-Plug 'junegunn/goyo.vim'
-Plug 'junegunn/limelight.vim'
-
-" Airline
+Plug  'honza/vim-snippets'
 Plug 'vim-airline/vim-airline'
 Plug 'vim-airline/vim-airline-themes'
-
-" Theme
-Plug 'cocopon/iceberg.vim'
 Plug 'kevinhwang91/nvim-bqf' 
 Plug 'morhetz/gruvbox'
 Plug 'tpope/vim-fugitive'
 Plug 'ynkdir/vim-diff'
-Plug 'voldikss/vim-floaterm'
 call plug#end()
 
 "Color scheme
-colorscheme iceberg
-"colorscheme gruvbox
-set background=dark
+"colorscheme iceberg
+"set background=light
+colorscheme gruvbox
 let g:gruvbox_contrast_light = 'hard'
-let g:airline_theme='papercolor'
 
-" Setting for neovide
-let g:neovide_scale_factor = 0.5
 
-" Setup for Utilsnips
-" Trigger configuration. Do not use <tab> if you use https://github.com/Valloric/YouCompleteMe.
-let g:UltiSnipsExpandTrigger="<tab>"  " use <Tab> to trigger autocompletion
-let g:UltiSnipsJumpForwardTrigger="<c-j>"
-let g:UltiSnipsJumpBackwardTrigger="<c-k>"
 
 "Open NERDTree
 :nnoremap <silent> <expr> <F2> g:NERDTree.IsOpen() ? "\:NERDTreeClose<CR>" : bufexists(expand('%')) ? "\:NERDTreeFind<CR>" : "\:NERDTree<CR>"
 
 "Coc.nvim
-inoremap <silent><expr> <cr> pumvisible() ? coc#_select_confirm() : "\<C-g>u\<cr>"
 inoremap <silent><expr> <TAB>
       \ coc#pum#visible() ? coc#_select_confirm() :
       \ coc#expandableOrJumpable() ? "\<C-r>=coc#rpc#request('doKeymap', ['snippets-expand-jump',''])\<CR>" :
@@ -91,8 +59,6 @@ function! CheckBackSpace() abort
 endfunction
 
 let g:coc_snippet_next = '<tab>'
-let g:coc_snippet_next = '<tab>'
-nnoremap <leader>e :CocCommand snippets.editSnippets<CR>
 
 " Comments
 let mapleader = ","
@@ -111,9 +77,8 @@ nnoremap <C-Up> <C-W>k
 nnoremap <C-Right> <C-W>l
 nnoremap <leader>to :tabonly<CR>
 nnoremap <leader>o :only<CR>
-nnoremap <tab> :tabn<CR>
+nnoremap <leader><tab> :tabn<CR>
 nnoremap <S-tab> :tabp<CR>
-nnoremap <BS> <C-O>
 
 "set clipboard+=unnamedplus
 " " Copy to clipboard
@@ -179,7 +144,7 @@ silent call IBusOff()
 "Language tool
 let g:ale_linter_aliases = {'tex': ['tex', 'markdown']}
 let g:ale_languagetool_executable = "java"
-let g:ale_languagetool_options = "-jar /data/runtimes/languagetool/languagetool-commandline.jar --languagemodel /data/runtimes/languagemodel/ --word2vecmodel /data/runtimes/languagemodel/ --disable WHITESPACE_RULE,COMMA_PARENTHESIS_WHITESPACE"
+let g:ale_languagetool_options = "-jar /data/kits/languagetool/languagetool-commandline.jar --languagemodel /data/kits/languagemodel/ --word2vecmodel /data/kits/languagemodel/ --disable WHITESPACE_RULE,COMMA_PARENTHESIS_WHITESPACE"
 let g:ale_disable_lsp = 1
 map <F3> :ALEToggle<CR>
 
