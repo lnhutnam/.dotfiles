@@ -1,5 +1,6 @@
 # Ignore for environment
 anaconda3
+miniconda3
 
 # Ignore for normal folders
 Apps
