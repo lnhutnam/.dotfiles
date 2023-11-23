@@ -56,6 +56,7 @@ vscode-cpptools
 .android
 .com.zerog.registry.xml
 .emulator_console_auth_token
+.elan
 .gradle
 .ibm_cplex_studio
 .labelmerc
