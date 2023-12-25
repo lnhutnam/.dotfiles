@@ -51,9 +51,17 @@ label-studio
 libreoffice
 gajim
 vscode-cpptools
+cava
+doom
+katevirc
+kbibtexrc
+rustlings
+mineapps.list
 
 # Ingore for dotfiles
 .android
+.openjfx
+.zotero
 .com.zerog.registry.xml
 .emulator_console_auth_token
 .elan

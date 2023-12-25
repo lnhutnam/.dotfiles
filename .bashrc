@@ -2,13 +2,14 @@
 function _switch_cuda {
    v=$1
    export CUDA_HOME="/usr/local/cuda-$v"
+   export CUDA_PATH="/usr/local/cuda-$v"
    export LD_LIBRARY_PATH="/usr/local/cuda-$v/lib64:$LD_LIBRARY_PATH"
    export PATH="/usr/local/cuda-$v/bin:$PATH"
    nvcc --version
 }
 
 # 11.7, 10.2
-_switch_cuda 10.2 # change the version of your like to load bash.
+_switch_cuda 11.7 # change the version of your like to load bash.
 
 #Ibus settings if you need them
 #type ibus-setup in terminal to change settings and start the daemon

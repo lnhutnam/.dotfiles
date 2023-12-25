@@ -2,6 +2,7 @@
 function _switch_cuda {
    v=$1
    export CUDA_HOME="/usr/local/cuda-$v"
+   export CUDA_PATH="/usr/local/cuda-$v"
    export LD_LIBRARY_PATH="/usr/local/cuda-$v/lib64:$LD_LIBRARY_PATH"
    export PATH="/usr/local/cuda-$v/bin:$PATH"
    nvcc --version
