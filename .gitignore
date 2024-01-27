@@ -56,7 +56,7 @@ doom
 katevirc
 kbibtexrc
 rustlings
-mineapps.list
+mimeapps.list
 
 # Ingore for dotfiles
 .android
@@ -147,6 +147,13 @@ okularrc
 .zcompdump-namlnhut-5.9
 .zcompdump-namlnhut-5.9.zwc
 .texlive
+.conan2
+Code Industry
+mineapps.list
+.ivy2
+.sbt
+cs
+octave-workspace
 
 # files
 xm1
