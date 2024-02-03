@@ -154,6 +154,7 @@ mineapps.list
 .sbt
 cs
 octave-workspace
+.dgl
 
 # files
 xm1

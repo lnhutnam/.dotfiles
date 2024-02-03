@@ -52,6 +52,9 @@ inoremap <silent><expr> <TAB>
       \ coc#expandableOrJumpable() ? "\<C-r>=coc#rpc#request('doKeymap', ['snippets-expand-jump',''])\<CR>" :
       \ CheckBackSpace() ? "\<TAB>" :
       \ coc#refresh()
+inoremap <silent><expr> <cr> pumvisible() ? coc#_select_confirm()
+                              \: "\<C-g>u\<CR>\<c-r>=coc#on_enter()\<CR>"
+
 
 function! CheckBackSpace() abort
   let col = col('.') - 1
@@ -164,4 +167,3 @@ if (empty($TMUX))
     set termguicolors
   endif
 endif
-
