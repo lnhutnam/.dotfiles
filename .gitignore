@@ -155,6 +155,8 @@ mineapps.list
 cs
 octave-workspace
 .dgl
+emacs
+.tmux
 
 # files
 xm1
