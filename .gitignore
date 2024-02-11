@@ -157,6 +157,9 @@ octave-workspace
 .dgl
 emacs
 .tmux
+.cabal
+.ghc
+.ghcup
 
 # files
 xm1

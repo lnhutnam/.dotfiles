@@ -614,3 +614,5 @@ unset __conda_setup
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
 
 #MPD_HOST = /home/lnhutnam/.config/mpd/socket
+
+[ -f "/home/lnhutnam/.ghcup/env" ] && source "/home/lnhutnam/.ghcup/env" # ghcup-env
