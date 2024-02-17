@@ -38,9 +38,9 @@ super + F7
 super + F8
     thunar
 
-#Evolution
+#Audio player
 super + F9
-    evolution
+    lollypop
 
 #Spotify
 super + F10
@@ -78,6 +78,10 @@ super + c
 super + x
     archlinux-logout
 
+#powermenu
+super + shift + x
+    arcolinux-powermenu
+
 #Rofi theme selector
 super + r
     rofi-theme-selector
@@ -94,7 +98,7 @@ super + v
 #super + m
 #    pragha
 
-# Terminal
+#alacritty
 super + Return
     st
 
@@ -105,7 +109,7 @@ super + Escape
 #Keyboard dependent
 #alacritty
 super + KP_Enter
-    st
+	st
 
 #################################################################
 # SUPER + SHIFT KEYS
@@ -123,6 +127,10 @@ super + shift + KP_Enter
 #dmenu
 super + shift + d
 	dmenu_run -i -nb '#191919' -nf '#fea63c' -sb '#fea63c' -sf '#191919' -fn 'NotoMonoRegular:bold:pixelsize=14'
+
+#rofi
+super + d
+    ~/.config/arco-dwm/launcher/launcher.sh
 
 #reload sxhkd:
 super + shift + s
@@ -333,11 +341,11 @@ F12
 
 #Raises volume
 XF86AudioRaiseVolume
-    amixer set Master 10%+
+    amixer -D pulse set Master 10%+
 
 #Lowers volume
 XF86AudioLowerVolume
-    amixer set Master 10%-
+    amixer -D pulse set Master 10%-
 
 #Mute
 XF86AudioMute
@@ -390,8 +398,3 @@ XF86MonBrightnessDown
 #Picom Toggle
 ctrl + alt + o
     ~/.config/arco-dwm/scripts/picom-toggle.sh
-
-
-# Kaomoji
-ctrl + alt + space
-    splatmoji copypaste

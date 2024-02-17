@@ -160,6 +160,7 @@ emacs
 .cabal
 .ghc
 .ghcup
+.config-adt
 
 # files
 xm1

@@ -67,5 +67,8 @@ static const struct arg args[] = {
 		{ ram_perc, "[RAM %s%%]", NULL	      },
 		/*{ disk_free,"[hdd %sB]  | ",      "/" },*/
 		{ battery_perc, "[BAT %s%%]", "BAT1" },
-		{ datetime, "[%s","%a %b %d %R]" },
+		{ netspeed_rx, "[RSN %s]", "wlo1" },
+		{ netspeed_tx, "[TNS %s]", "wlo1" },
+		{ uptime , "[UT %s] ", NULL },
+		{ datetime, "%s","%a %b %d %R" }
 };
