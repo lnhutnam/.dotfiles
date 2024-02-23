@@ -4,6 +4,8 @@ function _switch_cuda {
    export CUDA_HOME="/usr/local/cuda-$v"
    export CUDA_PATH="/usr/local/cuda-$v"
    export LD_LIBRARY_PATH="/usr/local/cuda-$v/lib64:$LD_LIBRARY_PATH"
+   export LD_LIBRARY_PATH=/usr/local/cuda-$v/include:$LD_LIBRARY_PATH
+   export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/local/cuda-$v/extras/CUPTI/lib64
    export PATH="/usr/local/cuda-$v/bin:$PATH"
    nvcc --version
 }
