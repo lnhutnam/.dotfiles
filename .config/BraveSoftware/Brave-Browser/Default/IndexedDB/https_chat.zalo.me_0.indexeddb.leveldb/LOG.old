@@ -1,6 +1,0 @@
-2024/03/16-15:50:43.985 1a066 Reusing MANIFEST /home/lnhutnam/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_chat.zalo.me_0.indexeddb.leveldb/MANIFEST-000001
-2024/03/16-15:50:43.986 1a066 Recovering log #3
-2024/03/16-15:50:44.028 1a066 Reusing old log /home/lnhutnam/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_chat.zalo.me_0.indexeddb.leveldb/000003.log 
-2024/03/16-16:40:17.078 1a065 Level-0 table #5: started
-2024/03/16-16:40:17.101 1a065 Level-0 table #5: 1339089 bytes OK
-2024/03/16-16:40:17.106 1a065 Delete type=0 #3

@@ -1,6 +1,0 @@
-2024/03/16-13:43:33.252 1a066 Creating DB /home/lnhutnam/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_quillbot.com_0.indexeddb.leveldb since it was missing.
-2024/03/16-13:43:33.260 1a066 Reusing MANIFEST /home/lnhutnam/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_quillbot.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/03/16-13:43:33.627 1a066 Level-0 table #5: started
-2024/03/16-13:43:33.632 1a066 Level-0 table #5: 1945 bytes OK
-2024/03/16-13:43:33.635 1a066 Delete type=0 #3
-2024/03/16-13:43:33.636 1a066 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
