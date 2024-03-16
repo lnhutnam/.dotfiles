@@ -1,0 +1,5 @@
+2024/03/16-13:38:11.093 1a068 Creating DB /home/lnhutnam/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb since it was missing.
+2024/03/16-13:38:11.106 1a068 Reusing MANIFEST /home/lnhutnam/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/03/16-14:37:54.329 1a066 Level-0 table #5: started
+2024/03/16-14:37:54.360 1a066 Level-0 table #5: 1252655 bytes OK
+2024/03/16-14:37:54.366 1a066 Delete type=0 #3

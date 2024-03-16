@@ -1,0 +1,690 @@
+{
+   "checksum": "2e24e487b1ffe1aac82994243a3ad72d",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13274694128000000",
+            "date_last_used": "0",
+            "guid": "2ff9cd98-61ac-46cb-82d0-2bd814f01458",
+            "id": "5",
+            "name": "86 -eightysix- That Novel Corner",
+            "type": "url",
+            "url": "https://thatnovelcorner.com/86-eightysix/"
+         }, {
+            "date_added": "13274694128000000",
+            "date_last_used": "0",
+            "guid": "d80edb5b-5a63-4b5a-a155-605069736ef2",
+            "id": "6",
+            "name": "Functional programming books overview",
+            "type": "url",
+            "url": "http://alexott.net/en/fp/books/"
+         }, {
+            "date_added": "13274694128000000",
+            "date_last_used": "0",
+            "guid": "9ee957f8-81b0-4974-866c-5068e220c881",
+            "id": "7",
+            "name": "Google Scholar",
+            "type": "url",
+            "url": "https://scholar.google.com/"
+         }, {
+            "date_added": "13274694128000000",
+            "date_last_used": "0",
+            "guid": "b416728e-f0d4-4b3f-a7eb-f5c25e8113ce",
+            "id": "8",
+            "name": "Cambridge Dictionary | English Dictionary, Translations & Thesaurus",
+            "type": "url",
+            "url": "https://dictionary.cambridge.org/"
+         }, {
+            "date_added": "13274694128000000",
+            "date_last_used": "0",
+            "guid": "ce9c2b07-f055-4435-ba99-931fb715a118",
+            "id": "9",
+            "name": "IELTS Writing Topics 2019 | IELTS Training Online",
+            "type": "url",
+            "url": "https://ieltstrainingonline.com/ielts-writing-topics-2019/"
+         }, {
+            "date_added": "13274694128000000",
+            "date_last_used": "0",
+            "guid": "076b447e-c63f-49a2-abf4-d9495bd53368",
+            "id": "10",
+            "name": "Exam English - Free Practice for IELTS,the TOEFL® and TOEIC® tests and the Cambridge English exams",
+            "type": "url",
+            "url": "https://www.examenglish.com/"
+         }, {
+            "date_added": "13274694128000000",
+            "date_last_used": "0",
+            "guid": "8252491f-1a18-42ee-8936-95bcbe4fd698",
+            "id": "11",
+            "name": "Sci-Hub: removing barriers in the way of science",
+            "type": "url",
+            "url": "https://sci-hub.se/"
+         }, {
+            "date_added": "13303823584000000",
+            "date_last_used": "0",
+            "guid": "0eb04d12-00ea-406e-ac78-21c2159a101d",
+            "id": "12",
+            "name": "Novel Updates - Directory of Asian Translated Novels",
+            "type": "url",
+            "url": "https://www.novelupdates.com/"
+         }, {
+            "date_added": "13303823584000000",
+            "date_last_used": "0",
+            "guid": "f0bc88ad-bac0-4786-ade7-d01a0793fd64",
+            "id": "13",
+            "name": "The Algorithms",
+            "type": "url",
+            "url": "https://the-algorithms.com/"
+         }, {
+            "date_added": "13303823584000000",
+            "date_last_used": "0",
+            "guid": "53566dfb-1fb0-424d-b1a7-397084464338",
+            "id": "14",
+            "name": "The Rust Programming Language - The Rust Programming Language",
+            "type": "url",
+            "url": "https://doc.rust-lang.org/book/title-page.html"
+         }, {
+            "date_added": "13303823584000000",
+            "date_last_used": "0",
+            "guid": "f7330f80-5269-4b0e-8d4b-a62c771ef5a4",
+            "id": "15",
+            "name": "Electrical Engineering and Computer Science | MIT OpenCourseWare | Free Online Course Materials",
+            "type": "url",
+            "url": "https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/"
+         }, {
+            "date_added": "13303823584000000",
+            "date_last_used": "0",
+            "guid": "c2ec2277-1ad3-411a-892a-9f5c0f037da1",
+            "id": "16",
+            "name": "Main Page - Competitive Programming Algorithms",
+            "type": "url",
+            "url": "https://cp-algorithms.com/"
+         }, {
+            "date_added": "13303823584000000",
+            "date_last_used": "0",
+            "guid": "c9f130b8-9dc1-4964-940b-8e7e913890bd",
+            "id": "17",
+            "name": "rigtorp/awesome-modern-cpp: A collection of resources on modern C++",
+            "type": "url",
+            "url": "https://github.com/rigtorp/awesome-modern-cpp"
+         }, {
+            "date_added": "13303823584000000",
+            "date_last_used": "0",
+            "guid": "02ea4e58-2387-406f-99e0-325b8980a3af",
+            "id": "18",
+            "name": "fffaraz/awesome-cpp: A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.",
+            "type": "url",
+            "url": "https://github.com/fffaraz/awesome-cpp"
+         }, {
+            "date_added": "13303823584000000",
+            "date_last_used": "0",
+            "guid": "a963c67f-4dc9-44ce-819c-e922877a6d0c",
+            "id": "19",
+            "name": "Preface 现代 C++ 教程: 高速上手 C++ 11/14/17/20 - Modern C++ Tutorial: C++ 11/14/17/20 On the Fly",
+            "type": "url",
+            "url": "https://changkun.de/modern-cpp/en-us/00-preface/"
+         }, {
+            "date_added": "13303823584000000",
+            "date_last_used": "0",
+            "guid": "fdb10c56-3f9b-4fff-99ec-f49a10e12543",
+            "id": "20",
+            "name": "C++ Standards Committee Papers",
+            "type": "url",
+            "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/"
+         }, {
+            "date_added": "13303823584000000",
+            "date_last_used": "0",
+            "guid": "e8569ba3-54e1-44d4-ab83-72dcdf0e4559",
+            "id": "21",
+            "name": "Standard C++",
+            "type": "url",
+            "url": "https://isocpp.org/"
+         }, {
+            "date_added": "13303823584000000",
+            "date_last_used": "0",
+            "guid": "9282532d-3495-431f-aa64-eca7a2f7cdf2",
+            "id": "22",
+            "name": "IELTS Online Exam Preparation | IELTS Sample Questions",
+            "type": "url",
+            "url": "https://www.ielts-mentor.com/"
+         }, {
+            "date_added": "13303823584000000",
+            "date_last_used": "0",
+            "guid": "688007a9-3f29-4693-8e09-c9b3fad671d9",
+            "id": "23",
+            "name": "IELTS Speaking: Face the IELTS Speaking exam with confidence. — Face the IELTS Speaking exam with confidence!",
+            "type": "url",
+            "url": "https://www.ieltsspeaking.co.uk/"
+         }, {
+            "date_added": "13303823584000000",
+            "date_last_used": "0",
+            "guid": "ecfc6aa1-0f15-45e6-b42a-7519d7e852e5",
+            "id": "24",
+            "name": "IELTS-Blog - IELTS exam preparation for free",
+            "type": "url",
+            "url": "https://www.ielts-blog.com/"
+         }, {
+            "date_added": "13303823584000000",
+            "date_last_used": "0",
+            "guid": "3852b7a8-c8ff-47e4-b995-9bff5b8955fb",
+            "id": "25",
+            "name": "IELTS Simon",
+            "type": "url",
+            "url": "https://www.ielts-simon.com/"
+         }, {
+            "date_added": "13303823584000000",
+            "date_last_used": "0",
+            "guid": "1ed324fe-adcc-48f5-998a-225f99f733af",
+            "id": "26",
+            "name": "IELTSbuddy - Free exam preparation to improve your test score",
+            "type": "url",
+            "url": "https://www.ieltsbuddy.com/"
+         }, {
+            "date_added": "13303823584000000",
+            "date_last_used": "0",
+            "guid": "70281dfd-edf2-462a-95de-d6d7eaaab1ec",
+            "id": "27",
+            "name": "Lil'Log",
+            "type": "url",
+            "url": "https://lilianweng.github.io/"
+         }, {
+            "date_added": "13309612435000000",
+            "date_last_used": "0",
+            "guid": "5db251f9-be34-47c3-98b8-a22bd446cf4c",
+            "id": "28",
+            "name": "Optimization Online",
+            "type": "url",
+            "url": "https://optimization-online.org/"
+         }, {
+            "date_added": "13311273995000000",
+            "date_last_used": "0",
+            "guid": "dfae50a8-ff2b-40f0-9bf2-6ebd2da0bf4d",
+            "id": "29",
+            "name": "Gregory Schwartzman",
+            "type": "url",
+            "url": "https://sites.google.com/view/gregoryschwartzman/"
+         }, {
+            "date_added": "13314374208000000",
+            "date_last_used": "0",
+            "guid": "b150e4ab-31db-4dbb-b422-b98db3527d6d",
+            "id": "30",
+            "name": "Computational Structure",
+            "type": "url",
+            "url": "https://computationstructures.org/index.html"
+         }, {
+            "date_added": "13314374221000000",
+            "date_last_used": "0",
+            "guid": "3a2a15b7-0829-4be4-b6c8-78eda50cb997",
+            "id": "31",
+            "name": "Principles of Distributed Computing - DISCO",
+            "type": "url",
+            "url": "https://disco.ethz.ch/courses/podc_allstars/"
+         }, {
+            "date_added": "13315755961000000",
+            "date_last_used": "0",
+            "guid": "0304223b-7edc-458e-acd3-f1b559b1afa6",
+            "id": "32",
+            "name": "P-versus-NP page",
+            "type": "url",
+            "url": "https://www.win.tue.nl/~wscor/woeginger/P-versus-NP.htm"
+         }, {
+            "date_added": "13317398982000000",
+            "date_last_used": "0",
+            "guid": "536da81b-5818-47e8-80bf-ff18c683f236",
+            "id": "33",
+            "name": "Tổng Hợp Bài Mẫu IELTS Writing Task 1 Mới Nhất Năm 2023",
+            "type": "url",
+            "url": "https://www.dolenglish.vn/category/tong-hop-bai-mau-ielts-writing-task-1-sample"
+         }, {
+            "date_added": "13318883078000000",
+            "date_last_used": "0",
+            "guid": "a6a1ea68-93a8-4251-8378-a62c8cf67efe",
+            "id": "34",
+            "name": "The Fast Track to Julia",
+            "type": "url",
+            "url": "https://cheatsheet.juliadocs.org/"
+         }, {
+            "date_added": "13333094158000000",
+            "date_last_used": "0",
+            "guid": "ccfc1b8d-660e-47a6-8a25-565591a90900",
+            "id": "35",
+            "name": "Lei Mao - Lei Mao's Log Book",
+            "type": "url",
+            "url": "https://leimao.github.io/"
+         }, {
+            "date_added": "13334796518000000",
+            "date_last_used": "0",
+            "guid": "2446cb40-8d3b-4947-b77f-d0a55a8c66a0",
+            "id": "36",
+            "name": "Jukka Suomela",
+            "type": "url",
+            "url": "https://jukkasuomela.fi/"
+         }, {
+            "date_added": "13335352366000000",
+            "date_last_used": "0",
+            "guid": "8a1d5ebb-317f-4db2-b318-93389aa3ef13",
+            "id": "37",
+            "name": "Architecture Notes — System Design & Software Architectures Explained",
+            "type": "url",
+            "url": "https://architecturenotes.co/"
+         }, {
+            "date_added": "13335610455000000",
+            "date_last_used": "0",
+            "guid": "8c4c1d9f-28cb-482b-9256-98883a775a9e",
+            "id": "38",
+            "name": "Papers on Graph Analytics",
+            "type": "url",
+            "url": "https://people.csail.mit.edu/jshun/graph.shtml#partitioning"
+         }, {
+            "date_added": "13336403922000000",
+            "date_last_used": "0",
+            "guid": "3670fd4d-4ba1-4989-9df4-d78a449b5b62",
+            "id": "39",
+            "name": "Natural Intelligence",
+            "type": "url",
+            "url": "https://greydanus.github.io/"
+         }, {
+            "date_added": "13336592237000000",
+            "date_last_used": "0",
+            "guid": "b1c5b738-4fbe-45bc-a715-50d71417a67f",
+            "id": "40",
+            "name": "Arnold Filtser - Personal Page",
+            "type": "url",
+            "url": "https://arnold.filtser.com/"
+         }, {
+            "date_added": "13337889235000000",
+            "date_last_used": "0",
+            "guid": "4fc8e8be-2465-4623-b865-4433229acc80",
+            "id": "41",
+            "name": "Yet Another Mathblog",
+            "type": "url",
+            "url": "https://yetanothermathblog.com/"
+         }, {
+            "date_added": "13338117869000000",
+            "date_last_used": "0",
+            "guid": "6d0b6475-8986-49c3-b7e6-ab045760c772",
+            "id": "42",
+            "name": "Wandering Witch: The Journey of Elaina Light Novel Pdf - jnovels",
+            "type": "url",
+            "url": "https://jnovels.com/wandering-witch-the-journey-of-elaina-light-novel-pdf/"
+         }, {
+            "date_added": "13339845201000000",
+            "date_last_used": "0",
+            "guid": "a1c79b1a-4531-49bf-a312-6af1ff63c037",
+            "id": "43",
+            "name": "Theory of Computing Report",
+            "type": "url",
+            "url": "https://theory.report/"
+         }, {
+            "date_added": "13341604828000000",
+            "date_last_used": "0",
+            "guid": "bbf707ce-3bad-4b08-9519-5fecd2a58948",
+            "id": "44",
+            "name": "fasterthanli.me",
+            "type": "url",
+            "url": "https://fasterthanli.me/"
+         }, {
+            "date_added": "13350228991000000",
+            "date_last_used": "0",
+            "guid": "3423159b-3b20-445d-965f-b01b5ae72325",
+            "id": "45",
+            "name": "ACM TRANSACTIONS ON COMPUTATION THEORY Home",
+            "type": "url",
+            "url": "https://dl.acm.org/journal/toct"
+         }, {
+            "date_added": "13350228994000000",
+            "date_last_used": "0",
+            "guid": "cf80328f-e30f-4650-ae2d-7cc85ef15258",
+            "id": "46",
+            "name": "ACM TRANSACTIONS ON PARALLEL COMPUTING Home",
+            "type": "url",
+            "url": "https://dl.acm.org/journal/topc"
+         }, {
+            "date_added": "13350229001000000",
+            "date_last_used": "0",
+            "guid": "510aa6c1-1eaf-4b12-9400-e718374591d5",
+            "id": "47",
+            "name": "TALG: Just Accepted",
+            "type": "url",
+            "url": "https://dl.acm.org/toc/talg/justaccepted"
+         }, {
+            "date_added": "13350229006000000",
+            "date_last_used": "0",
+            "guid": "5a945ec8-3d39-4060-b02e-76298b8c45bc",
+            "id": "48",
+            "name": "TKDD: Just Accepted",
+            "type": "url",
+            "url": "https://dl.acm.org/toc/tkdd/justaccepted"
+         }, {
+            "date_added": "13350724333000000",
+            "date_last_used": "0",
+            "guid": "43b4ef1d-ccce-4d9a-be5d-0074af10e44a",
+            "id": "49",
+            "name": "ACM COMPUTING SURVEYS Home",
+            "type": "url",
+            "url": "https://dl.acm.org/journal/csur"
+         }, {
+            "date_added": "13350724414000000",
+            "date_last_used": "0",
+            "guid": "ded7eab6-123f-4d9e-9532-72858a6772c6",
+            "id": "50",
+            "name": "TIST: Just Accepted",
+            "type": "url",
+            "url": "https://dl.acm.org/toc/tist/justaccepted"
+         }, {
+            "date_added": "13350724598000000",
+            "date_last_used": "0",
+            "guid": "c38a1367-fb56-48df-8c8b-95a442833ce1",
+            "id": "51",
+            "name": "ACM TRANSACTIONS ON INFORMATION SYSTEMS Home",
+            "type": "url",
+            "url": "https://dl.acm.org/journal/tois"
+         }, {
+            "date_added": "13350724656000000",
+            "date_last_used": "0",
+            "guid": "3cd25d2d-53fd-4b68-beb8-58194b83db65",
+            "id": "52",
+            "name": "ACM TRANSACTIONS ON RECOMMENDER SYSTEMS Home",
+            "type": "url",
+            "url": "https://dl.acm.org/journal/tors"
+         }, {
+            "date_added": "13352724298000000",
+            "date_last_used": "0",
+            "guid": "33501b48-11e1-4b54-90ce-1f33b38efb4c",
+            "id": "53",
+            "name": "Shangtong Zhang | My Homepage",
+            "type": "url",
+            "url": "https://shangtongzhang.github.io/"
+         }, {
+            "date_added": "13353845283000000",
+            "date_last_used": "0",
+            "guid": "1803133b-b1dd-457e-a71f-ebec6d221a2d",
+            "id": "54",
+            "name": "Dimitri Bertsekas Homepage",
+            "type": "url",
+            "url": "https://www.mit.edu/~dimitrib/home.html"
+         }, {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13318336957000000",
+                  "date_last_used": "0",
+                  "guid": "9876ac02-2682-47f7-9838-ffa15a1eaa87",
+                  "id": "57",
+                  "name": "Get Help",
+                  "type": "url",
+                  "url": "https://support.mozilla.org/products/firefox"
+               }, {
+                  "date_added": "13318336957000000",
+                  "date_last_used": "0",
+                  "guid": "37cf6e48-2b7d-4710-b3af-c316242c8716",
+                  "id": "58",
+                  "name": "Customize Firefox",
+                  "type": "url",
+                  "url": "https://support.mozilla.org/kb/customize-firefox-controls-buttons-and-toolbars?utm_source=firefox-browser&utm_medium=default-bookmarks&utm_campaign=customize"
+               }, {
+                  "date_added": "13318336957000000",
+                  "date_last_used": "0",
+                  "guid": "938b43f4-6a05-4be0-afb4-827e705fa826",
+                  "id": "59",
+                  "name": "Get Involved",
+                  "type": "url",
+                  "url": "https://www.mozilla.org/contribute/"
+               }, {
+                  "date_added": "13318336957000000",
+                  "date_last_used": "0",
+                  "guid": "afb83831-4b05-4c97-a98b-c7c7212564e9",
+                  "id": "60",
+                  "name": "About Us",
+                  "type": "url",
+                  "url": "https://www.mozilla.org/about/"
+               }, {
+                  "date_added": "13291634923000000",
+                  "date_last_used": "0",
+                  "guid": "f40e5b94-7d1a-4a20-8513-d5954242a18e",
+                  "id": "61",
+                  "name": "Get Help",
+                  "type": "url",
+                  "url": "https://support.mozilla.org/en-US/products/firefox"
+               }, {
+                  "date_added": "13291634923000000",
+                  "date_last_used": "0",
+                  "guid": "36886ed4-b44e-4a79-bdf0-4013ccaf2e70",
+                  "id": "62",
+                  "name": "Customize Firefox",
+                  "type": "url",
+                  "url": "https://support.mozilla.org/en-US/kb/customize-firefox-controls-buttons-and-toolbars?utm_source=firefox-browser&utm_medium=default-bookmarks&utm_campaign=customize"
+               }, {
+                  "date_added": "13291634923000000",
+                  "date_last_used": "0",
+                  "guid": "b50c639a-113e-4579-abc2-e99ba6041e97",
+                  "id": "63",
+                  "name": "Get Involved",
+                  "type": "url",
+                  "url": "https://www.mozilla.org/en-US/contribute/"
+               }, {
+                  "date_added": "13291634923000000",
+                  "date_last_used": "0",
+                  "guid": "45053c5d-435a-48c0-8e19-a0bb50da5ca6",
+                  "id": "64",
+                  "name": "About Us",
+                  "type": "url",
+                  "url": "https://www.mozilla.org/en-US/about/"
+               }, {
+                  "date_added": "13240754615000000",
+                  "date_last_used": "0",
+                  "guid": "9b6440b8-89fa-4533-8f62-200eb6978f0e",
+                  "id": "65",
+                  "name": "Help and Tutorials",
+                  "type": "url",
+                  "url": "https://support.mozilla.org/en-GB/products/firefox"
+               }, {
+                  "date_added": "13240754615000000",
+                  "date_last_used": "0",
+                  "guid": "b14d35c6-bb4e-4895-bcbc-26e810f6ab73",
+                  "id": "66",
+                  "name": "Customise Firefox",
+                  "type": "url",
+                  "url": "https://support.mozilla.org/en-GB/kb/customize-firefox-controls-buttons-and-toolbars?utm_source=firefox-browser&utm_medium=default-bookmarks&utm_campaign=customize"
+               }, {
+                  "date_added": "13240754615000000",
+                  "date_last_used": "0",
+                  "guid": "e0342a76-9f71-402c-bc72-b2de302d5bcc",
+                  "id": "67",
+                  "name": "Get Involved",
+                  "type": "url",
+                  "url": "https://www.mozilla.org/en-GB/contribute/"
+               }, {
+                  "date_added": "13240754615000000",
+                  "date_last_used": "0",
+                  "guid": "d97b04ce-8916-41e7-8512-025f018390db",
+                  "id": "68",
+                  "name": "About Us",
+                  "type": "url",
+                  "url": "https://www.mozilla.org/en-GB/about/"
+               }, {
+                  "date_added": "13227873716000000",
+                  "date_last_used": "0",
+                  "guid": "8725bce5-d669-4866-8dd4-4d013e13db52",
+                  "id": "69",
+                  "name": "Help and Tutorials",
+                  "type": "url",
+                  "url": "https://support.mozilla.org/en-US/products/firefox"
+               }, {
+                  "date_added": "13194708699000000",
+                  "date_last_used": "0",
+                  "guid": "060ce0ac-b1dd-4c76-8130-d26968b6ea93",
+                  "id": "70",
+                  "name": "Trợ giúp và Hướng dẫn",
+                  "type": "url",
+                  "url": "https://support.mozilla.org/vi/products/firefox"
+               }, {
+                  "date_added": "13194708699000000",
+                  "date_last_used": "0",
+                  "guid": "4987ce29-2d4e-43c9-ba60-330635d0bd9b",
+                  "id": "71",
+                  "name": "Tùy biến Firefox",
+                  "type": "url",
+                  "url": "https://support.mozilla.org/vi/kb/customize-firefox-controls-buttons-and-toolbars?utm_source=firefox-browser&utm_medium=default-bookmarks&utm_campaign=customize"
+               }, {
+                  "date_added": "13194708699000000",
+                  "date_last_used": "0",
+                  "guid": "156379dc-5a91-4692-ad96-737c4146f33d",
+                  "id": "72",
+                  "name": "Tham gia",
+                  "type": "url",
+                  "url": "https://www.mozilla.org/vi/contribute/"
+               }, {
+                  "date_added": "13194708699000000",
+                  "date_last_used": "0",
+                  "guid": "cbc3d1a2-3a03-428f-abce-65ec3b3b9647",
+                  "id": "73",
+                  "name": "Giới thiệu về Chúng tôi",
+                  "type": "url",
+                  "url": "https://www.mozilla.org/vi/about/"
+               } ],
+               "date_added": "13355044507901653",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "75fe5a53-8331-4d21-839a-0de8bcb2bec9",
+               "id": "56",
+               "name": "Mozilla Firefox",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13305976545000000",
+                  "date_last_used": "0",
+                  "guid": "fcc11123-cf48-4609-883d-aa1f48cd24bf",
+                  "id": "75",
+                  "name": "Manjaro Downloads",
+                  "type": "url",
+                  "url": "https://manjaro.org/get-manjaro/"
+               } ],
+               "date_added": "13355044507902092",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "da1f46ce-b282-4ce3-93cc-d822061f340d",
+               "id": "74",
+               "name": "Manjaro Linux",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13240754615000000",
+                  "date_last_used": "0",
+                  "guid": "4c9a03b2-1e9f-4012-b8be-540de7ec44ba",
+                  "id": "77",
+                  "name": "Ubuntu",
+                  "type": "url",
+                  "url": "http://www.ubuntu.com/"
+               }, {
+                  "date_added": "13240754615000000",
+                  "date_last_used": "0",
+                  "guid": "5a5d1ccb-8089-40c5-8f69-5e8fc711f567",
+                  "id": "78",
+                  "name": "Ubuntu Wiki (community-edited website)",
+                  "type": "url",
+                  "url": "http://wiki.ubuntu.com/"
+               }, {
+                  "date_added": "13240754615000000",
+                  "date_last_used": "0",
+                  "guid": "be9445ac-eb16-4e06-8cfe-3a66d17e2837",
+                  "id": "79",
+                  "name": "Make a Support Request to the Ubuntu Community",
+                  "type": "url",
+                  "url": "https://answers.launchpad.net/ubuntu/+addquestion"
+               }, {
+                  "date_added": "13240754615000000",
+                  "date_last_used": "0",
+                  "guid": "e61099ea-e563-4e36-bf8a-7daaf2c720ff",
+                  "id": "80",
+                  "name": "Debian (Ubuntu is based on Debian)",
+                  "type": "url",
+                  "url": "http://www.debian.org/"
+               } ],
+               "date_added": "13355044507902127",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "5ca68605-6203-4b69-b023-d4222155f7c1",
+               "id": "76",
+               "name": "Ubuntu and Free Software links",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13194713411000000",
+                  "date_last_used": "0",
+                  "guid": "9b990ce4-e6ee-4d32-b897-14c786e25f4e",
+                  "id": "82",
+                  "name": "Cách tạo Webservice",
+                  "type": "url",
+                  "url": "https://csc.edu.vn/lap-trinh-di-dong/tin-tuc/kham-pha-lap-trinh-di-dong/cach-tao-webservice-501"
+               }, {
+                  "date_added": "13194713420000000",
+                  "date_last_used": "0",
+                  "guid": "ac29dbd1-9153-4292-bde0-c069216e7f66",
+                  "id": "83",
+                  "name": "Cài đặt và sử dụng SQlite Manager. | Bùi Hạ My",
+                  "type": "url",
+                  "url": "https://buihamy9x.wordpress.com/2013/08/25/cai-dat-va-su-dung-sqlite-manager/"
+               }, {
+                  "date_added": "13194713492000000",
+                  "date_last_used": "0",
+                  "guid": "9270e881-f62e-49c5-947d-089c770a9661",
+                  "id": "84",
+                  "name": "VPS/VDS Hosting. ASP.Net MVC Hosting. Free ASP.Net Hosting",
+                  "type": "url",
+                  "url": "https://somee.com/"
+               }, {
+                  "date_added": "13194713501000000",
+                  "date_last_used": "0",
+                  "guid": "25bef6e0-edf1-4eed-92df-341834905cf4",
+                  "id": "85",
+                  "name": "Login or register",
+                  "type": "url",
+                  "url": "https://somee.com/DOKA/DOC/DOLoginOrRegister.aspx?docode=false&sl=false"
+               } ],
+               "date_added": "13355044507902224",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "f5df0113-49e1-41c3-8fa3-8b722e1bac7b",
+               "id": "81",
+               "name": "unfiled",
+               "type": "folder"
+            } ],
+            "date_added": "13355044507901614",
+            "date_last_used": "0",
+            "date_modified": "13355044507901614",
+            "guid": "cfc7995c-4dd5-4b59-a897-5d6e92d270a2",
+            "id": "55",
+            "name": "Imported From Firefox",
+            "type": "folder"
+         } ],
+         "date_added": "13355044486181964",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13355044486181966",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13355044486181968",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CooBChAIiIECEgqepM/fyGMAAAAAEgAaWDRIbnlMQ3I1Y1ovYTFuYk1ERjUwR1dSeEd1NHNWMkVsaURIYlR2RkVsS3RtOTNrKzZYQjFpemJSc0w0RzNiSlVxOGRhY2VaUkRSZksrdW5PMUNOb2RBPT0qGERLNEJ6NlYxbGpOK0c1ZUt0UmFMZ0E9PUgDEqgBCFUSowEKHDhla01nZnhRQ1NzeGRZUHNaSlNWM09sYno1Zz0SJDQ4YzQxY2E3LWQ0MDQtNGYwYi04M2EzLTVkZGU2MDA3MmVkZBgAIAIoAjC30eev5DE4vbrnr+QxQL2656/kMUocRW1RNFpCK1hZRVRjaW5LWTY2OUhzMnBObVZRPVofIh3tTEtFUUVqdXV4WTlxaWgrWEp3MGJRaEMvYkkwPWUAAAAAEqgBCFQSowEKHHZjc3NyL1JleEZ2T0ZiaFZDNFhzb1psdWthWT0SJGUwZDcxMDUzLWFiZDEtNDA0Zi05OGFiLWI0MGE2M2U1Yjg5ZhgAIAIoAjCl0eev5DE4vbrnr+QxQL2656/kMUocNjhSY0huVGpjUjVidWNudHJtYWxySEFnV0VJPVofIh3bQzRYZnpaYVNCRWwwcXdpbkFxVERORW04YkMwPWUAAAAAEqgBCFMSowEKHFg5cjZEbG8yYm5aM3hybWcvL2wrZG4vVmdGdz0SJGI5ZjkyZjM0LTgyYzItNGRmOS1iNGM5LTQwMGZjMGU2MGRiMhgAIAIoAjCW0eev5DE4vbrnr+QxQL2656/kMUocNlVNMW02TmVlVnU4RHVtTzlYczFZK3JIM3hFPVofIh22TlAreVpVOVdvcDdjRERYSmxYMGpNYmMrOUM0PWUAAAAAEqcBCFISogEKHHJWY0ZYRDF6aUVraExadDV6VWNKSlFwTVJsQT0SJDI3ZDJiYzI1LThmZmEtNGEwYS1hM2VkLWQzODRkM2Y1NmU4NxgAIAIoAjCG0eev5DE4vbrnr+QxQL2656/kMUocdlpmRUZBUmIwT0tWY2w4clZYZGsyVEZNN0VBPVoeIhxsc1FHNkNxZXh0TmJITEo5Y1ZNWHR4QTVUSk09ZQAAAAASqAEIURKjAQocY3BDdGVXY0wxT3VDUFMvbGgzdWhiUVNQMUZBPRIkZTgxNWQ5M2YtNTQzMy00ZTFkLWE5YjktYTU3NzRiMjkyOTNmGAAgAigCMPfQ56/kMTi9uuev5DFAvbrnr+QxShxiclBuQXZQNmNmWTFvc2Jicms2UzJPaDI5SFE9Wh8iHbhKV2J4MU1xbWZWM2QxeVhtSWg5WlFCVFFRYXc9ZQAAAAASqQEIFxKkAQoca2JDcGNreElZeHd3YUZLWnVBNDM2RUFuRlBnPRIkZjhjNzhkZTUtMTQzOS00YWI2LWFhYmYtZWE4MTNiZmZlNjUxGAAgAygDMO/R56/kMTi7uuev5DFAvrrnr+QxShxkcTQ5eTZYc1NVaUovS24weGo4c2U5L3NaaU09WiAiHv/+clozUG01RnZDVHRRVmlwaEFNU0tGczYzdzA0PWVKQKH0EqgBCE4SowEKHE5TZE01aVBpY0Z3MHJCbk9WaDd4LzM1aW45Zz0SJDdjYTUwMGE0LWIzYjgtNDViMi1iYzM1LTdkMmQyMmM0YzY5ZBgAIAIoAjDF0Oev5DE4vbrnr+QxQL2656/kMUocbm40SDhBdVF4QmFqVEU5UWtWeHlvazRKYkpFPVofIh26bzhSWUxpWEc4bXJlMHU5dVYxUEprVFFWaUxnPWUAAAAAEqcBCEwSogEKHFpnMDk0QXVmamg3SUdHL1psLzdLVEZldisraz0SJDIxNWJhMzVjLTAwMGItNGY1OC1hMDE3LTMwOTk4YjVkZWQ3NRgAIAIoAjCl0Oev5DE4vbrnr+QxQL2656/kMUocVnh5WG8wUFcrdnJEK0EzVDYrZWdEZGRQMU04PVoeIhxwdWVhRHJuSTZaMVBIeUdzOE9aa1A0YmMyd3c9ZQAAAAASpwEITRKiAQocVy9LZjg0eWJpKzBpOEdiVFVKeEdxdEJES0RRPRIkYzBkN2E2YjEtNTc3NC00NTg5LTk0Y2UtZjA3MDE3OTIwMDg1GAAgAigCMLXQ56/kMTi9uuev5DFAvbrnr+QxShxTN0pIKzZheDlaMGs5Rk5UZ29HakswamUxLzA9Wh4iHHR2NDlud3Erc3F2aUFuZVp2c1dmWkJQTU9zdz1lAAAAABKpAQhIEqQBChxEQU9pZWFZcGFoSi9qSGF5ZVZ1QWVyZHVheW89EiQ1MTcxODQ1NS1jZGY0LTQzODMtOGIxZi1lM2EzMGIzYTU1YzEYACACKAIw4s/nr+QxOL2656/kMUC9uuev5DFKHFJrckJ0VEJ6eHpCOXI1d2RjQ0VKZWxGenQrND1aICIe//1iUE8wS3Awakl4ZkZMMTFnM2M1Vm1TL29PMzg9ZQAAAAASqQEIRRKkAQocVFRIak05UEFkTkRabEViYTU2Q3JCYm13bVpjPRIkMjUyOTA3MDQtYTY4Zi00ZWQzLTg0ZjItNDYzNWFlOWUzNTBiGAAgAigCMK3P56/kMTi9uuev5DFAvbrnr+QxShxFR2Q1MTYzc05MUURpV2Q4eWZ2a3ZKY29oVTA9WiAiHv/vRE5relROd0hJN1pwSnhoeHZTQUpjeGNmQXRBPWUAAAAAEqgBCEISowEKHCtoK2wya3dvMkVJei80MjFUaGVLZ2VYZnJYZz0SJGU3Y2YwM2U2LWJlMDYtNDAzYS1hNDBiLTNmZGYyNWQ0OGE1NxgAIAIoAjD2zuev5DE4vbrnr+QxQL2656/kMUocMlFldXJhQXBTa2QzN1ZhZXJvMmxFbzI3NC9jPVofIh3/eTJMczVhNnBEUG53SzFtOThxWnBuY2ZKdTJZPWUAAAAAEqgBCEESowEKHGNSOG42OGtUN2RWKzVjbmdXYzB4WXlQN3Jzcz0SJDEyMWFlMzJkLWZmZTEtNDMwNS1hZmY3LWE4ZTc5MzU1ZjI3ZRgAIAIoAjDmzuev5DE4vbrnr+QxQL2656/kMUocWjFHRXhROWhRVE5PT0JwbUZmbXprK0R4V3dBPVofIh3+V2d5L0hSblRkNm8zMGxDVm5GYm9wWmpVRG5vPWUAAAAAEqgBCEASowEKHHhyOVAwT3JFL3VFUE1INlZYZTdxcFJSdUszaz0SJDI4MjMwMTZkLWIwZTQtNGViNC1hMjgxLTYxNWZkMDgzNDZlMhgAIAIoAjDYzuev5DE4vbrnr+QxQL2656/kMUocVk8yY3kwMnVEUW80VmExZWd4aVk4R3I3VmdrPVofIh39RzI2TTRLam95M1RWYS9zeTRXUDNnNktKcytRPWUAAAAAEqgBCD4SowEKHDFlSjhVWVJGYk0yQW1oOE5PQmw4YmdIbDg2ND0SJGNlNzM0Y2QzLTNmZjQtNDVmYi1iNzA4LWU2OTg4ZjNlMGY5YhgAIAIoAjC1zuev5DE4vbrnr+QxQL2656/kMUocZmVWV3BMbnIrVXZ1VjVrMjdrSmpGV3NqNkNJPVofIh33M2ZrU0hicXQxVGNGSnNZeVJRVjFPVTBqNnNNPWUAAAAAEqcBCDoSogEKHGMwVFJkQkpxUWJMSkdyY2haMHFMVDR2R3hKOD0SJGUwMWUzNWMyLTFlZjUtNDQ5MS1iNTFlLWY3ZWFmYzU1NDFhYxgAIAMoAzDxzeev5DE4vLrnr+QxQMm656/kMUocYi9xMXQyNDVkRWgzNlZpN1BRdTNPeGpzVmxNPVoeIhxydWNpeTFyZHpybVgxbGhWS3c5YnlZYzJFWWM9Zb7yqeoSsAEIMRKrAQocVXRYYllJU3RtUUNEY0lTdFB1NzBqeUlJM2wwPRIkODBlOTM0M2EtYjEwNy00MDFkLWJjNDQtYTFhOGQzMzMxZjBkGAAgAygDMIDS56/kMTi8uuev5DFAx7rnr+QxShxDQmdpeGNSTjBDeG9OU3NCSDJjdklQTStPVlE9WiciJf////8AAAAE9VBFeWtDWGpoZGJtZlBpM2lYSnRJTmVTbFZkST1l3uwLNhKnAQhLEqIBChxoVUp0cVNzQ2c1YlB2alZuTUlsZ0RwOW5uYVE9EiRiZDhkMWZhYS0wYmQ5LTQzMDUtOGNjZC0xMTY3MDFkMzc2ZTYYACACKAIwktDnr+QxOL2656/kMUC9uuev5DFKHGdSRXVDdWhGd0xtcnZEdnoyeHRwbFg1WGVIOD1aHiIcT1NrU2IzbzFkdW10MmJUNHA3YTlCVmVVZWhNPWUAAAAAErABCDcSqwEKHEEyMmZibnFrWnpXMkZXVW1SSkFPNmtPbUtSOD0SJGNhN2UzYmMyLWVlN2MtNGJiMC04NzQ0LTU3MDc4NDhmMzE0MxgAIAIoAjDAzeev5DE4vLrnr+QxQLy656/kMUocRkdYTGh5R1dvMDZ3cFA1NGlaRWRqUGlCT0VvPVonIiX/////AAAABboyc25ZUk94VlkvcU16OXlaZytySzh3MEpyek09ZQAAAAASqgEIIxKlAQoceGloRE1TVzJ5M29mZG9ybnBSSmM4MzFkRUJRPRIkYzkyMzZlMGYtZmY4MS00ZTAwLWI2ZGMtODk5ZWNkMDM1M2IwGAAgAygDMK/N56/kMTi8uuev5DFAwrrnr+QxShxJWjJJdlB5YUd6Tytoc3F5WHYrbUlCVXdMeHM9WiEiH////2pSYUIzTnBEL3BnWkRVU2lpc1hGU003YkFEVT1lQarxlxKoAQgHEqMBChxYamNiSVFubktkVythK255aDRuUVQyQ0V3VlU9EiQxZjg2NDIzOS1hNjliLTQ2MTctOTYwNC01YjU1YmZlZDE5YzQYACACKAIwjs3nr+QxOLu656/kMUC7uuev5DFKHEE1YW9iSTBLdW80TUhTdU1CN1gyYU9RcjM2dz1aHyIdvE8vOFJvd09YajlJRWR6WXZCZWgxSFE4dG1vaz1lAAAAABKvAQgtEqoBChx3eURTbFlJV28xZHY0M3UvK091dGNqSndGQ0E9EiQ5OWI2OTZhMS04ZjUwLTQ3OGMtODY5My00ZjE2ZDE1ZTA5MGMYACADKAMw6sznr+QxOLy656/kMUDGuuev5DFKHGtCMHZGQndBL0ZuMFFzYlhuekF1YlpOTm1RRT1aJiIk/////wAAAARSSnp5U0dKdTViL2srSXV5N3N4aDZOa20wNlU9Zd7sCzYSqQEIFBKkAQocYTFjVkJyTGhtUnk4SDVJT1VES3JKYVA1REtZPRIkODgwYmM4NDYtZjU0MC00Y2FjLTg3MmYtM2M1YTBlNDJiZTBjGAAgAigCMMzM56/kMTi7uuev5DFAu7rnr+QxShxiUUZUWkszLytuY0ZQOE11VFF6UVZHTlFONzg9WiAiHv/3MDFGRUxDUVNiaFdONmo1alhWeTNCTXRoNE00PWUAAAAAEqkBCBoSpAEKHFo1VmlHSEZuWWV4c1QxeEt5VXFCY1pUSktCYz0SJDg1ZmYyMGQwLTc5NTEtNGUwZC1hNzAyLWVjNjBkZmMzMWFhNhgAIAMoAzCczOev5DE4vLrnr+QxQMC656/kMUocM3F3ZlhQbExtM2Rubm8zaFkzQ0Y4UVZVUlMwPVogIh7//3RCVkxIRElIc2U3QlVkR0lUQVhZZTVwYjBLOD1luIz/vxKpAQgVEqQBChxEaXIwRFRLMzgyZjAzcFVMaE5POFBlSnRJQ0k9EiQ0NmVkOTg2ZS03NzA4LTQ5OTUtYjgwOC03NzRhN2NlYTlhODEYACACKAIw+8vnr+QxOLu656/kMUC7uuev5DFKHGFUdUYvR1pKWURUUnRDRHRTbVRIY2lrTGpxcz1aICIe//tvSCtESm1PQUdZVlpQazZ6bFRYQTB0MGFtdUk9ZQAAAAASqwEIJhKmAQocb0lDb1Q2azE3ZlRyMXp3OTBjeThoRlNTSG5NPRIkN2Y0ZTdlNmQtZGM5Yy00ZGRmLWFlOWEtNDE5MzRkYTkxNzg0GAAgAigCMOrL56/kMTi8uuev5DFAvLrnr+QxShxpa1BQYWFldFVkMjZZenNpRy9PRlNOUmh1cjQ9WiIiIP///+1iWXBHamtsS2RxVTZyT0xPU1liNHplSDN5K0U9ZQAAAAASqAEIPRKjAQocY2E1cC9LQ3pqOGVrNEVPQ3BCSlM0VVlHbTVrPRIkNTA0YjJiOGYtZWI5MC00NTg1LWI4YzgtZDdjY2Y2MWQwYWNmGAAgAigCMKbO56/kMTi9uuev5DFAvbrnr+QxShxZdHMwMlNxa01FaGwvdXZsUll0ejVuY3daMkE9Wh8iHe54MDZWbm5PRkhEV0dPSjR1MHVuTXozQ0NpNmM9ZQAAAAASqwEIJxKmAQocbWJiZlFORmswdzdXKzdvMTNuaWNjVGFCbXRnPRIkYWM2ZGJlNGMtNTVjYi00MWVmLTllMTItYWNkY2NhYmRhYTc4GAAgAigCMNvL56/kMTi8uuev5DFAvLrnr+QxShxxaW1yVForYTBOUWZvVWFPUXJSaW9TNkttVkE9WiIiIP////ZFZHVKNDdhTjVHMDNNQ2dDRWlMS3EzVmcrQVk9ZQAAAAASqQEIGRKkAQocbHNxUHpHZHBDRGUyMENjUVMyb0hyaVB2d0E0PRIkM2ZlYzc0YjEtMmJhMC00ODQ1LWE4NzMtMDFmNTBjNGUxNzZhGAAgAigCMLrL56/kMTi8uuev5DFAvLrnr+QxShxCTldCVDVhNElQMG5wT05DNmY5c0tIR1NWOVk9WiAiHv//c09tUncwTk40ekhkRGcrWUlmNDdIVDNhenNVPWUAAAAAEqgBCAoSowEKHGlMTktJRlJ2Q2FnSmd6WnFuR1B5YXJvSVB4az0SJGRhZDllODBkLWQ3ZGQtNDAzMy05ZjQ5LTg2N2IyZDA0MmZlMRgAIAIoAjCoy+ev5DE4u7rnr+QxQLu656/kMUocMmZ3S2NkeHowRkhWYy9OL3ZCZ1EyeWM2TW9nPVofIh33KzMxRUhIeW8zRTNIMncrdkFyR3gvdFVWb2JnPWUAAAAAEqoBCBsSpQEKHEN5TFNzRVBaUWhzQU9oNmJuNXhqeXBtMGZzTT0SJDI0ZDczZjY5LWExYWMtNDI4NS1iZGRkLWQ3MjZkYzg2M2EzNhgAIAIoAjCXy+ev5DE4vLrnr+QxQLy656/kMUocVEZBeXlOMnIrdlM3cUZGcDUxNEdmVkNsR0prPVohIh///7o2R1R4V1dLVURSYk92M2taTjl2MVdyZUxRcEU9ZQAAAAASqgEIIRKlAQocQU9FUXA2Zkx5M0RFM0VrTE9rQWYxS1lGSU1vPRIkZGQzYzUwZTUtNzE5Zi00Y2IzLTk2OTYtNGM2ODc1ZGNhOTNhGAAgAigCMM/K56/kMTi8uuev5DFAvLrnr+QxShxUZEdCa24vNHhFYWZEK2hNaHRXRE50UjRNbEU9WiEiH////i93MXNhemF3a3U3L01oN25lRzZDemZhaDN6cz1lAAAAABKqAQggEqUBChxRSFlNNnpvNExhNXk3OFJXT3RreXk5K2Y5YjA9EiQwYTNiZTMxZi0xZGNmLTQ4ZGQtYmY5MC1lYzY0NGU4OTEwNDUYACACKAIwv8rnr+QxOLy656/kMUC8uuev5DFKHGlVNitaaDZXZHJKSEtIRVZCcnBtMml3bk93dz1aISIf///9dVYrNGFIV3gxaFJZWEFCWUQ1TTZTWE1WUGtrPWUAAAAAEqoBCB0SpQEKHDVxTHRrWGp6TUl1Rm90YjZPc3hKZEQ4SzlCOD0SJGVlNTM0ZGQ4LTlhMTctNDExZC04ZGEzLTg2ZTgxYzhmMDk0MhgAIAMoAzCHyuev5DE4vLrnr+QxQMG656/kMUocN3hodzdONVFGMEQ1S0tidTFnaUF2OEFlMWFBPVohIh///+5WdnBUS2x3SWJzQlhHaE1BVnVBUFBXWWVTUzQ9ZQncC+0SqwEIKBKmAQocR3paQ3ZIbnVnWWFWRm4zelh3RXBWbUhlY09nPRIkNTA5MGVlNTgtMzI1Ny00OGNhLWJiZjUtNWMyNTlkYmU5YTBiGAAgAigCMJrK56/kMTi8uuev5DFAvLrnr+QxShxnSTB3bXI2SnJJMDNZRmpiaFJmK21oZnUzemc9WiIiIP////t2NzJ5R1lvbWU4RXQ0NVU5TnJLNWJaNGpROVU9ZQAAAAASpwEIBRKiAQocMEl6VHF1d1VTanhRNEd5Wmt4UXkzaldvcXlzPRIkMjUyOTM0NjEtNmM0Yi00Njg4LWIzYmYtOWFmYzc5MDA1OTZhGAAgAigCMPbJ56/kMTi6uuev5DFAurrnr+QxShw5Nlh3ZXBJWkN4OGRyRVlyNTJBWW80QkVvVG89Wh4iHC93bExBWWdzVlIwSnhJQUMxa2NmWU5nS2NoND1lb2lD0BKnAQg4EqIBChw2QWhUMG51b2d0TnBBVDdjQnRIcjdJbzBpZlU9EiRkMDY1MGYzNS1hMmFlLTQyNjMtOTg5OS1iZDFiMGUyM2I5MDkYACACKAIwz83nr+QxOLy656/kMUC8uuev5DFKHHhteS9wU1BLbyt3d3ZmZ0llejY1eHpoSHZZQT1aHiIcTmY1dEVtWVBqL0s3NVZ4dW1ac1pqUW1UcGRFPWUAAAAAEqkBCBgSpAEKHE9uM1lUMjVmc1Fqa0F6TUpKMUxWRVc1SGZaMD0SJGE2N2FmYmU3LWU2ZDYtNDJkZi1iNjA2LTFiMWQ3NTE5MGYwZBgAIAMoAzDjyeev5DE4vLrnr+QxQL+656/kMUoca0hPREJGVDFsVG9lNzZNWE1nYTBkdVVFbk9vPVogIh7//2gwUUd6SW83cVJaRU5ZYjlFdlNQYTd5WW41OD1lEudXYBKpAQhHEqQBChx4UElHSGhFanZEdGZVNEs3VDJEbW1SUFpVOW89EiRiNWI0OTI5MC01OWJmLTRmY2MtYWY2Zi05YTUwYTA2YjkxOTIYACACKAIw0c/nr+QxOL2656/kMUC9uuev5DFKHG1yN1AwWHBWUXRvejFOLy9YZHNSMVNHRDNsUT1aICIe//tyRVJwOFZTcEQrS3N3VzMvSGtNSlVmME1Oenc9ZQAAAAASrwEINhKqAQocOFhseE1oZndBcmdmNFE3dUJ0SjVZeDFuYUFVPRIkNWRjM2Y0MTktZTA1NS00NzZkLWI3OWItMzJmODg4Mzk2Mjk4GAAgAigCMMfJ56/kMTi8uuev5DFAvLrnr+QxShxzMFBKTzRzNm13b1lLazBBYmM1eFc2Qm1Wc2M9WiYiJP////8AAAAFdHJJTTg4QzJEZUpKTmlHZWhmd1p4RXhRT05RPWUAAAAAEqsBCCUSpgEKHCt4RDVDV0p4b09wNzJZZXZvTGh5RjJlTWhxdz0SJDg5MjRmNDhhLTZmMTgtNDA1ZC1hMmU3LWEwYjk4OTBjYWU1NBgAIAMoAzDvyuev5DE4vLrnr+QxQMO656/kMUocOWZWSjNUR1VSV3grRUZVVU9BelQ5Z3FPK0d3PVoiIiD////aalRkbXFsbDRJSzBHdGhPWjJkZEQzd0lMeHJJPWWF9+ySErABCDASqwEKHGxRbytmZ1BWeDVaUWh2UjRyL3VWOXJOMDlTST0SJDZhMDJlZDAzLWVmOWYtNDE1Mi05ZjVjLTQ4ZTJlMDJhMTk1YRgAIAMoAzC3yeev5DE4vLrnr+QxQMe656/kMUocQzh0UGdWUWdXTkVUOU0wMEpsSWlIaFFCTitNPVonIiX/////AAAABOpJVFEwMlJjR21NM1VQNnZXaHErSUpKbnlla2M9Zd7sCzYSpwEIBhKiAQoca3IxZjVuMDFFQWgxVzhJaXpMblBCQTE1UFpFPRIkMzY5MTA4YjYtNzNjNS00NTAwLWIyYzAtNGEwODA5MzE0M2NmGAAgAigCMITJ56/kMTi7uuev5DFAu7rnr+QxShxWMEFiSlllYy9vaHUwQjNudnRLdzZkSnJoeWc9Wh4iHHhuNnN4dDJjVWZGOHJTSkZiWkhQT2Z6OXZ1VT1lAAAAABKwAQg0EqsBChxJMXJSZEhJamR4OGZERnBVNER3M2kvMDQ2UGc9EiQ0ZDMwMTExNS1hNjRhLTQxN2MtOGM2OS1kMTkzZWI0ODNiMGUYACADKAMw9cjnr+QxOLy656/kMUDIuuev5DFKHFl4c3NoQk9iNmsyd1kyZkxVNzVYKzdxYmFZRT1aJyIl/////wAAAAT+UkxHV0hlaS9USTVaRHo1MGxWajF6cURIZ25NPWXe7As2ErABCC8SqwEKHFprRmcyRGVKejdacEw3NW1iQnBEQTlRQ0ZRUT0SJDkzNTQ5MTVhLWNiNGItNGU5NS04ODA0LTU4NGZhMjVmZmJmNRgAIAMoAzCP0uev5DE4vLrnr+QxQMa656/kMUocdncyMXR5T2NTeWkwWmVkc1VORkVRUEJLeGpVPVonIiX/////AAAABNRGS05TSlVEWVZseGx6UDNiWHZndzN5dVgyb1U9Zd7sCzYSqwEIKRKmAQocNllLVWNsa0tIbDRxVUNOZS9GVVNwUEZibWxNPRIkZTgyNzUxMGUtMDBjMi00NTYzLWJkODEtYTZhMTI3MjRiZGQwGAAgAygDMOXI56/kMTi8uuev5DFAxLrnr+QxShxoaWg3Y3QyK1l5WXdJSUc1dHp4dnFpUzZpcG89WiIiIP////16aGV5MjNoMWxFc2JleTdCTGM3SXVJSTJVQUk9ZU5U1Y0SqAEICxKjAQocNlIzVnFIaFMxYWhDQndLaUttd3AvdGZyQ1JRPRIkZjRkZjBjNzctM2ViMC00MmZjLThmNTMtZTNiODJlNDI0ZGExGAAgAigCMMTI56/kMTi7uuev5DFAu7rnr+QxShxTcEMzSUlrZ1J6YkJLejQ4Q2JjaVZZNU4rNDg9Wh8iHftTSkE3YlM4eWRxdmhKMmw4N1ViOENnOWFTSk09ZQAAAAASpwEIShKiAQocUnRwaUc0a3lXSkwyL0tZd1ZtZ2ZPeWZvWHBnPRIkMjZlNDUzYmEtZDg4ZC00YmRlLWE5M2QtYjdkMjQ2OGI5ZjdjGAAgAigCMILQ56/kMTi9uuev5DFAvbrnr+QxShxMamViWitjYm04QUhYOGtYS2xMOHBsTm1VYUk9Wh4iHGtrOEo0Mk50ZklteXgrd3E1OUh0Kzh6Z1BNdz1lAAAAABKoAQgPEqMBChxLU0w2OHVDNldtajNNNnd0Ni83ZEdtd09lT2s9EiQxYThjMGE2Ny0yODQxLTQ5N2ItYTYwOS1kNDg0MzVlNGQyMjcYACACKAIwo8jnr+QxOLu656/kMUC7uuev5DFKHE8rWmJ0dGMwSFpjM2JkUCsvRnR5QjRlSHY4dz1aHyId/29OaDRHL2J2ZExVcUdOM1RhY3ZtRnoyVnJoND1lAAAAABKoAQgMEqMBChxZYU9Dd004UTMxMjhnTit2K0FKRFVXMTZjRjQ9EiRhZTQ0MGU3Yi04MzMyLTQyZDEtYjg0NC03MzI5YzlhOWRmOTIYACACKAIwlMjnr+QxOLu656/kMUC7uuev5DFKHC8zZ0o1a1YybnZLZXR1cjN3WWdZZUk4Ym00MD1aHyId/UhzQXZadFhRdlY2UzI4K0RUYnVJOG1RUE9zcz1l3nAy3xKpAQhGEqQBChxzcml4d2piN0ZOUVhWeENTY3d6YnVPZEs5am89EiQ4NmZlMjM1NS1lYjQwLTRjYmUtOTY5Ni0yMjY4OGM5YmFkOTgYACACKAIwv8/nr+QxOL2656/kMUC9uuev5DFKHHVKQ05kdXhoNDdxK0Nub1d0UFBHVGI1eFR5WT1aICIe//c2VTc5dkNqSmpSdTVaREQ2RjNUUGhXZUZDaXM9ZQAAAAASqgEIHhKlAQocU254eGNTUzg0OEUwN3krMDczeUtLa0lQSTBjPRIkOGViM2NjYTktODRjMy00ZmZiLWJmYmItMmQxZjA1ZmFlMTNkGAAgAigCMKfJ56/kMTi8uuev5DFAvLrnr+QxShxKbnZGT1ZENi9rQ05VTUZEemk5TVBtMUV0R009WiEiH///925lRVF2NXduZnZtKzVpcmlZWXI2dklwVjRBUT1lAAAAABKqAQgfEqUBChxENG82MXNQVEV4U2llVG40MlZ5VXFZYVVDc009EiQ2ODExMjUyMS1lNmUzLTQxNzctYjViZC00YWNiOWYyODBlODkYACACKAIwy8vnr+QxOLy656/kMUC8uuev5DFKHFUzb1JTNHcwYkttNHcvMW9oWGh6bTYwR3BYaz1aISIf///7bk92QmMvbjdMcitXYlhtUnRUUURWM1Y5NXI0PWUAAAAAEq8BCCwSqgEKHEIrb3pubWU1RjNKR0JMZ2twYjQvS1JZc0NKWT0SJGNmNzEwNzc1LTk3Y2YtNDcyMS05NzBkLWY3MjQ2YzM4YTQyYRgAIAMoAzC0yOev5DE4vLrnr+QxQMW656/kMUocSXYvaS91bSttQWEzZjlBQkpmSUlncGNTSTVVPVomIiT/////AAAABEkvK1pwZDdLc1hvMlYvb3BPajBBMzdtOGRCZz1lqmG67RKpAQhDEqQBChxUbkc5RnErQm5DQ202YlltZ2lqTFdwZnZ6cVk9EiQ3OTc1YjQ5OC1hNjI5LTQxMzAtYmJmZC1lNTVmNGQwOTdiYTUYACACKAIwis/nr+QxOL2656/kMUC9uuev5DFKHG0xQ3BtTEw4WjZnaTRmY3BrM3p6d01LRCtqYz1aICIe/7w1TFQyaUJEQTkvVjhRUHpjV2tpTTV6Z2poQWs9ZQAAAAASqAEIOxKjAQocTVBwR2wwS2trVy9SZDdVU0NBQUdiaVhYWTZvPRIkZTM0MThjM2EtNzUxNy00YTRhLWFiZjgtNGIyYzQ3MmZiMTQ2GAAgAigCMITO56/kMTi8uuev5DFAvLrnr+QxShxTUmVTMWNZWE9aOHp4UTFuS0FPQjB2SzVIZEE9Wh8iHblFb0pJNSs3RzdUUnhuM3ROT2V3THRiODVTNnc9ZQAAAAASsAEIMxKrAQocTktUSUdHaFppOWs5Y0Fnc1J2ak1teEJMQWkwPRIkYWM1YmM5MGMtZjhkNC00OWExLTkwZWQtZTY5ZWU2MzA5NjQ4GAAgAygDMKzM56/kMTi8uuev5DFAyLrnr+QxShw4Umh5cGpsb3NyTHVtVG5xMFlBdFZ2aTVLRVE9WiciJf////8AAAAE/S9YUFEyWTdJbzJGbnR1aUE5c1BDb1V2dEEvcz1l3uwLNhKoAQgOEqMBChxMUGx0ZjNTRGw1MGs4UVNpZFFGSDg3cFMxbm89EiQ3ZjY4ZTE5NC0zNDllLTQwYjYtOGJhZS02MDJiZDIxNGVhNzcYACACKAIw1sfnr+QxOLu656/kMUC7uuev5DFKHGhocDdLWlNzZUtrTkhFM3YyK2tLTTRES1d6ND1aHyId/1dxcWlraVJOUmlqQ3hnV2RzZVJVaiszb2VqRT1lAAAAABKoAQg/EqMBChx4ZzBKdG5mcThrYmxhRFZjU0Nzam1Lak9YNFU9EiRlZDU4NmYzMC0wMGNjLTRiOTMtOGE1Ni03ZGIwY2E1ZDdiNDUYACACKAIwyM7nr+QxOL2656/kMUC9uuev5DFKHCtjN2lQT1NwazVoeEZQcm14anF1dVpNOXpIVT1aHyId+1VML2VaanFKNHlmNnpCQlB0cGp5ZlF2YTY2dz1lAAAAABKpAQgREqQBChxJOTNONGQvVlVjLzBtR0hpSnhERitxTXd3blk9EiQ0ODlkNjU1My00OTQ4LTRjNWQtYjAxMi1mZWE0YWMwNjZjNDIYACACKAIwydHnr+QxOLu656/kMUC7uuev5DFKHFlFS1hnWFlLZjEzT0lHTkMyemp3SStvd2ZnVT1aICIe/71LU3B5ZzU1TUhoTkd1RlIwQ0lqS09hQ280TFU9ZQAAAAASqAEIUBKjAQocV3V6enJ4Qm41SXBLb2RRSisyZndJS0hHeVdnPRIkNGRmYzY2ZDAtNDY1Mi00ZmI0LTk4MTgtZmMyOTNlZDEyYjM3GAAgAigCMOTQ56/kMTi9uuev5DFAvbrnr+QxShxQU3RJL21NeUp6ZVkrbzN4ZHJOeG5SNXROT009Wh8iHe5JZDhiZ2R6TDNCRVJ5bU93T0pBQWVXRXdJR0k9ZQAAAAASqQEIRBKkAQocWnJTNUxKVFg3bUZua1dBeVRycVpKaWxtc2NFPRIkOTZhOGU3MTQtM2Y2Yi00ZGJkLTg3M2YtNDYzOTgxNDkyMTdmGAAgAigCMJrP56/kMTi9uuev5DFAvbrnr+QxShxhNkFVQkpUb2tucnJTS3d4WitVenozbHdINjA9WiAiHv/eZ0hDZ2QyeTFhVXNCNFM0TGx3S2dMWFdLMW5BPWUAAAAAEqgBCBASowEKHFAwMkxsM0RVQjBIR1B4NTFmNVArRWdmOCtFWT0SJDNlYzU2ODgyLWFjMTQtNDM1NS1iYTZhLTQ4YjlhNGY5NmZmZBgAIAIoAjCgzeev5DE4u7rnr+QxQLu656/kMUocUHUvcmR3djV3MDBydTd0VnRKZlBuYndKQWJnPVofIh3/enlBSGNEcVV4bWdYMHBmV2l3YzNTNzhQVFhFPWUAAAAAEqcBCDkSogEKHCt6d2VEckVhMklwZlQ1MFdnendRUFVJMjB3MD0SJGMzZDM4M2I2LTE3M2MtNDg3OS1iOTdhLTY3Y2E2Nzc4MDg2ORgAIAMoAzDhzeev5DE4vLrnr+QxQMm656/kMUocSzRCRVlUN2pQNVMva1AxeitITTAzWUxEZnc0PVoeIhxRbmUxS2tDVEhiREV2YXdFWTZMZDQzb0FrMkk9Zb7yqeoSsAEIMhKrAQocQ3FxcjlRbTA3RzlyY2JvYW9lSUtMZmk0WFJzPRIkYWRjOWE0NGQtM2UwMy00ZjdhLWI0M2UtNWQ3YjQ2ZjcwMzEzGAAgAygDMIvM56/kMTi8uuev5DFAyLrnr+QxShxqTmJVc2oxcnQwdmtNaEZBNUlYVjZhZFB4UEk9WiciJf////8AAAAE+ktuRUU1K29VV1JiaGUxb2ZSK01iNW1rNERZST1l3uwLNhKrAQgkEqYBChw1S2EwaTJ2ZXMxb3l0cXordkVDUkRqZzlsYTQ9EiRjNTIyOGQyOS1kOWZmLTQ0MGUtOGYyMi1hMWJlNThmM2NkNTUYACADKAMw2dHnr+QxOLy656/kMUDDuuev5DFKHEpjSFdaTm5Pa3BsNDF4NnU5Qk9ueGNnU1JMRT1aIiIg////tUVudFh5MElQeEQreWwwd1U0Z3VOZTRJRHVlQT1lBk0PehKDAQgBEn8KHHl4Si82ZnZrZWNyN2twNUVRekI0dFdMcGRiRT0SJDYwZGIxZmI3LTJjM2QtNDYzNi05NTYzLWRmODQyMjcxMWYxZhgAIAAoADABOO+056/kMUDvtOev5DFKHGFSQ1dMZ2hGOWI1SW5xS0lEdnVKL2p2UWtGYz1aAGUAAAAAEqoBCBwSpQEKHG90bm1YbUxqSWI0S3Z2Ym9EK0RoMDVDVHdEOD0SJDVkMTMwYmI5LWQ1MDgtNDk4Zi1hMzUxLWI1Zjg4YjY3MTRhZhgAIAMoAzDmx+ev5DE4vLrnr+QxQMC656/kMUoceUI3enBNbWtuSjlxQkp6dVdxdUhiWVFjZGtvPVohIh///91aUDJ4WjJsMWNpcU95aUYydDJjZjFkc3dnbzQ9ZSYlLgISqAEIDRKjAQocRUlpZjR0YUpmVGpyS2hjVjRZN3h2dlJ0dGFZPRIkNTVmY2VhM2YtNzExNC00ODI3LThhYjQtZTdiNzkwNmFhOGNiGAAgAigCML3M56/kMTi7uuev5DFAu7rnr+QxShxhSTVhc0ZvUGU5YUVHZUp2QWJ2dzNBSFlzSEE9Wh8iHf55bVZEaEFwTE5Kd0o2RlhMaU9KZ0ZTckVlR2M9ZQAAAAASqQEIEhKkAQoceVdKTTlQQ004aEJyQTh0cm0xZHBPQklCN1A0PRIkN2EwYzQ5MjYtMzk1MC00ZGM3LThmMzMtYmNhNjQ1MDkxNzNmGAAgAigCMITI56/kMTi7uuev5DFAu7rnr+QxShxHdWJEa0QzZmtIZm1kKzZqZzA2MlYzSG5oZnc9WiAiHv/eRGFvNkZ1c05kdU16S08zMWFNWnozalpiV0VJPWUAAAAAEqgBCAgSowEKHHF3cE0xSXhNbENucEdvOTI2ZkhRWkdKQ01hWT0SJDI0ODk2OWQ2LTQ2YjItNDk0ZS04ZmM2LWJjMDQ2YTk2NWJjOBgAIAIoAjD1x+ev5DE4u7rnr+QxQLu656/kMUocV0E4MEtGS1VuQUYrQXE5Mk9pZjZEYWNBSldzPVofIh3eMmNoVEJOUFg2MWwyUFREUDQ4dWJQc1BOWHhVPWWrDsidEqsBCCoSpgEKHE5oRUZONUZlejd5UGZaajlvcFlBU1BTOXR3ST0SJGQ3ODNjYzQ4LWJhOWEtNDQ5Zi1hOTFkLTRjNGNkNjM2MTEyNxgAIAMoAzCFy+ev5DE4vLrnr+QxQMS656/kMUocQUNtaHk2ZGl4dVUwZjdXVGFBaXExZVBmTC8wPVoiIiD////+bmhYdEYxNlFQNGEvVCs3SXR3b3RCdG9RUTRzPWV3uIi/EqgBCAkSowEKHFBTWm1sMVY4TGU2WWZGK29TTDNGOUpheTAzWT0SJDNkYTNiMGMyLWQzMWItNDVjZC1hNDZiLTdhYzUxNzkwZmMxORgAIAIoAjDfyuev5DE4u7rnr+QxQLu656/kMUocWUF5dGRrRGpKWURzd2RXQkVIQlY3Umhyczg4PVofIh3vNys5UndiZHVld1pvVTB2Q0JmSXUvbExWazNZPWUAAAAAEqgBCDwSowEKHGw2Sy9BTVYrS2kzNjhIdGpjdmpQc25SVlJxRT0SJDQxOWYxMDVjLWQ1ZTQtNDc2ZC1hMjI5LTUxNzE1OTA4ZWYxOBgAIAIoAjCTzuev5DE4vbrnr+QxQL2656/kMUocZzliVml3eWQvSlEwY1hWcjJOYjRtT1ZnWE4wPVofIh3cdlhkNXZNdFk2OEo4K1lRdlRHc2VNUGt2Um9NPWUAAAAAEq8BCDUSqgEKHHN3bTBsRzY2TW5xV2xvdVRvYzFJUUNIK3Q4QT0SJDIzYzkwMDBlLWM5YTctNDRlZi04MjllLWFkMzc2YWE0ZTQ2NxgAIAIoAjD7zOev5DE4vLrnr+QxQLy656/kMUocZGh1cjNvbng5MGpRY3RMdnlEZ1FlQzZjT3pvPVomIiT/////AAAABU4xa0FWazVGaGRUVHI1TzluTzRLdTl3cDBIUT1lAAAAABKwAQguEqsBChxxZ1J3ZlNTWjRVV2hjOVJMWlpIYllDOStwZ2M9EiQxYWFkMTdjNi0wYzAxLTRlNGUtYmM4Yi1lYmU4ZjVkZjI4YmYYACADKAMw3Mznr+QxOLy656/kMUDGuuev5DFKHHNwOHkwN2s4WlQ4UGVwUzQ1ckVlb1o1THpKST1aJyIl/////wAAAASpSlluMCtiVGVObFRyaXR6UVEzbnFySzFmY3YwPWXe7As2EoMBCAISfwocWWNTVG9udkVTUHdxQ3M0TDJjclZodjY4TDk4PRIkYzI2NzE0YjMtNTUwMC00OWI4LWE4ODItMDBiNGZiYjdiMDkxGAAgACgAMAE477Tnr+QxQO+056/kMUocb1BWa2h3QlJiVjY1S0NXUjIrSU9OSFdvT3U4PVoAZQAAAAASqgEIIhKlAQocNExQS1RsS0doZjdxcWJKVDlBMkJjNVoyMFNJPRIkZTA2OTAyMTQtZWJlYy00NmEwLTllZjgtZDBmMTkwYTg0ZDM5GAAgAigCMNXJ56/kMTi8uuev5DFAvLrnr+QxShxON3laQTVHc3JyVnUwWDRZVFRxbkRNMHlkelk9WiEiH////2lLajZudzBaa3puM2xvcjk1bW9Ob2o2OXFjbz1lAAAAABKpAQgWEqQBChxtdWRJbnFZTjNmcU1MMkZMTEdJSWk1K0pkcFE9EiRmMzM0YzljZC03ZWJjLTQxOTUtYWJjMi1mNGEwYWQ5NmRkOTEYACACKAIwlMnnr+QxOLu656/kMUC7uuev5DFKHE5rbCtxdGJ0cDVMVWoyT2JVTjdHTkpxUFNSZz1aICIe//0zQjV2UkVoSThKWS9BNEZzT0hWM2V4RGR1U289ZQAAAAASqQEIExKkAQocRyt5NUhnekR5K01uQjhrZjhGTGFwdFhDVTMwPRIkNjE1NjkyNWMtZmUyOC00YzVmLWE2MTItYTVlZTAxYTFjNzRjGAAgAigCMNXI56/kMTi7uuev5DFAu7rnr+QxShw2OEZUdnBlNWVscFlJbllNWVZBQ1lwa1NZOVE9WiAiHv/vRW1teTRVaC9NVWVKeVFwZVM2UWhXUkRsK0hrPWUAAAAAEqkBCEkSpAEKHGlYa2Jwc0x0OHFia1oxd2ZiNHVVQWFQMHJkRT0SJGZjNzVkNDAyLTBhMGMtNGYwMC05ZDlkLTNkM2QwNmYxNmRjNBgAIAIoAjDyz+ev5DE4vbrnr+QxQL2656/kMUocU2dibm5MS1hYajZwQXpSRzUwSlF5RkJ6V1NJPVogIh7//mROZDNYMXBCaEJuRDdUdzBXTDNXSGxRK29BYz1lAAAAABKoAQhPEqMBChxWWTFzblA1bmdNSTZKNDRuV2R0NnBFeG13WE09EiRlYmYzMTE3Ny1lNjc5LTRlNWQtYTNiMC02NTYxNmY1NjkzOTcYACACKAIw1NDnr+QxOL2656/kMUC9uuev5DFKHHNoN1JNZDU4WHd1ejVMZ282cmQrdnJrWFg5VT1aHyId3TYyM3d6Z3hsQWFQb2J3ZHkrNFdrK3hFdk5ycz1lAAAAABKvAQgrEqoBChwvQU9mM2pXUEc3c0QrMlNEaWJiS1o0cVdLNjA9EiRiOTVlMzQ2Mi05N2I4LTQxNzctYTk4My1lZGEyZDIzZGYxZDMYACADKAMwrcrnr+QxOLy656/kMUDFuuev5DFKHE1udyttRkVDb2VHaVZZRzg2SUZzVVAwTG41Yz1aJiIk/////wAAAARIWlYxUktDbDE4bHRjejVwYkhMZ2ljdnpWTHc9ZXzOX3kSgwEIAxJ/ChxuamdEdTg4ZUNydlhwODZwRDdmSEdjcUZwODg9EiQ0NmQwNjc3Ny1jYmIwLTQ0MjYtOWI0OC1lNTMyZDNjYmI0OGMYACAAKAAwATjvtOev5DFA77Tnr+QxShx5ek5CMDFjbjU0QTdjUlUwdVQrL1BnbVR0VW89WgBlAAAAADABOAA=",
+   "version": 1
+}

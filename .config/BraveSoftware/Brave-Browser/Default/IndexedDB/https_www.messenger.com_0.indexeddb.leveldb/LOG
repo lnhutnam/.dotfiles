@@ -1,0 +1,6 @@
+2024/03/16-14:23:43.299 1a073 Creating DB /home/lnhutnam/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.messenger.com_0.indexeddb.leveldb since it was missing.
+2024/03/16-14:23:43.308 1a073 Reusing MANIFEST /home/lnhutnam/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.messenger.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/03/16-16:02:56.566 1a066 Level-0 table #5: started
+2024/03/16-16:02:56.589 1a066 Level-0 table #5: 961205 bytes OK
+2024/03/16-16:02:56.593 1a066 Delete type=0 #3
+2024/03/16-16:02:56.594 1a066 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
