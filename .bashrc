@@ -1,23 +1,15 @@
 # CUDA Loader
 function _switch_cuda {
-   v=$1
-   export CUDA_HOME="/usr/local/cuda-$v"
-   export CUDA_PATH="/usr/local/cuda-$v"
-   export LD_LIBRARY_PATH="/usr/local/cuda-$v/lib64:$LD_LIBRARY_PATH"
-   export PATH="/usr/local/cuda-$v/bin:$PATH"
-   nvcc --version
+	v=$1
+	export CUDA_HOME="/usr/local/cuda-$v"
+	export CUDA_PATH="/usr/local/cuda-$v"
+	export LD_LIBRARY_PATH="/usr/local/cuda-$v/lib64:$LD_LIBRARY_PATH"
+	export PATH="/usr/local/cuda-$v/bin:$PATH"
+	nvcc --version
 }
 
 # 11.7, 10.2
 _switch_cuda 11.7 # change the version of your like to load bash.
-
-#Ibus settings if you need them
-#type ibus-setup in terminal to change settings and start the daemon
-#delete the hashtags of the next lines and restart
-export GTK_IM_MODULE=ibus
-export XMODIFIERS=@im=ibus
-export QT_IM_MODULE=ibus
-ibus restart
 
 ### EXPORT ###
 export EDITOR='nano'
@@ -37,13 +29,12 @@ PS1='[\u@\h \W]\$ '
 # If not running interactively, don't do anything
 [[ $- != *i* ]] && return
 
-
-if [ -d "$HOME/.bin" ] ;
-  then PATH="$HOME/.bin:$PATH"
+if [ -d "$HOME/.bin" ]; then
+	PATH="$HOME/.bin:$PATH"
 fi
 
-if [ -d "$HOME/.local/bin" ] ;
-  then PATH="$HOME/.local/bin:$PATH"
+if [ -d "$HOME/.local/bin" ]; then
+	PATH="$HOME/.local/bin:$PATH"
 fi
 
 #ignore upper and lowercase when TAB completion
@@ -302,29 +293,28 @@ alias xd="ls /usr/share/xsessions"
 
 # # ex = EXtractor for all kinds of archives
 # # usage: ex <file>
-ex ()
-{
-  if [ -f $1 ] ; then
-    case $1 in
-      *.tar.bz2)   tar xjf $1   ;;
-      *.tar.gz)    tar xzf $1   ;;
-      *.bz2)       bunzip2 $1   ;;
-      *.rar)       unrar x $1   ;;
-      *.gz)        gunzip $1    ;;
-      *.tar)       tar xf $1    ;;
-      *.tbz2)      tar xjf $1   ;;
-      *.tgz)       tar xzf $1   ;;
-      *.zip)       unzip $1     ;;
-      *.Z)         uncompress $1;;
-      *.7z)        7z x $1      ;;
-      *.deb)       ar x $1      ;;
-      *.tar.xz)    tar xf $1    ;;
-      *.tar.zst)   tar xf $1    ;;
-      *)           echo "'$1' cannot be extracted via ex()" ;;
-    esac
-  else
-    echo "'$1' is not a valid file"
-  fi
+ex() {
+	if [ -f $1 ]; then
+		case $1 in
+		*.tar.bz2) tar xjf $1 ;;
+		*.tar.gz) tar xzf $1 ;;
+		*.bz2) bunzip2 $1 ;;
+		*.rar) unrar x $1 ;;
+		*.gz) gunzip $1 ;;
+		*.tar) tar xf $1 ;;
+		*.tbz2) tar xjf $1 ;;
+		*.tgz) tar xzf $1 ;;
+		*.zip) unzip $1 ;;
+		*.Z) uncompress $1 ;;
+		*.7z) 7z x $1 ;;
+		*.deb) ar x $1 ;;
+		*.tar.xz) tar xf $1 ;;
+		*.tar.zst) tar xf $1 ;;
+		*) echo "'$1' cannot be extracted via ex()" ;;
+		esac
+	else
+		echo "'$1' is not a valid file"
+	fi
 }
 
 #btrfs aliases
@@ -393,7 +383,6 @@ neofetch
 #export LD_LIBRARY_PATH="/usr/local/cuda-11.7/lib64:$LD_LIBRARY_PATH"
 #export PATH="/usr/local/cuda-11.7/bin:$PATH"
 
-
 . "$HOME/.cargo/env"
 
 export PATH="$HOME/opt/julia-1.6.7/bin:$HOME/.local/bin:$PATH"
@@ -420,18 +409,17 @@ export JAVA_HOME=/usr/lib/jvm/java-8-openjdk
 
 # >>> conda initialize >>>
 # !! Contents within this block are managed by 'conda init' !!
-__conda_setup="$('/home/lnhutnam/anaconda3/bin/conda' 'shell.bash' 'hook' 2> /dev/null)"
+__conda_setup="$('/home/lnhutnam/anaconda3/bin/conda' 'shell.bash' 'hook' 2>/dev/null)"
 if [ $? -eq 0 ]; then
-    eval "$__conda_setup"
+	eval "$__conda_setup"
 else
-    if [ -f "/home/lnhutnam/anaconda3/etc/profile.d/conda.sh" ]; then
-        . "/home/lnhutnam/anaconda3/etc/profile.d/conda.sh"
-    else
-        export PATH="/home/lnhutnam/anaconda3/bin:$PATH"
-    fi
+	if [ -f "/home/lnhutnam/anaconda3/etc/profile.d/conda.sh" ]; then
+		. "/home/lnhutnam/anaconda3/etc/profile.d/conda.sh"
+	else
+		export PATH="/home/lnhutnam/anaconda3/bin:$PATH"
+	fi
 fi
 unset __conda_setup
 # <<< conda initialize <<<
-
 
 [ -f ~/.fzf.bash ] && source ~/.fzf.bash
